@@ -1,0 +1,1105 @@
+﻿Target id,Gene symbol,Chromosome,Gene name,Protein name,Ensembl id,UniProt id,P_value,FDR(BH),FDR(Bonferroni),Relationship,Value
+SMTT00006,AANAT,None,aralkylamine N-acetyltransferase,Serotonin N-acetyltransferase,ENSG00000129673,Q16613,0.00410957,0.0334136,1,By_ingredient,0.4525
+SMTT00010,ABAT,16,4-aminobutyrate Aminotransferase,"4-aminobutyrate Aminotransferase, Mitochondrial",ENSG00000183044,P80404,0.117359,0.142912,1,By_ingredient,0.4667
+SMTT00023,ABCC2,10,ATP Binding Cassette Subfamily C Member 2,Canalicular Multispecific Organic Anion Transporter 1,ENSG00000023839,Q92887,0.0612147,0.0844548,1,By_ingredient,0.1627
+SMTT00032,ABCG2,None,ATP binding cassette subfamily G member 2 (Junior blood group),ATP-binding Cassette Sub-family G Member 2,ENSG00000118777,Q9UNQ0,0.0730022,0.0969123,1,By_ingredient,None
+SMTT00049,ACE,17,Angiotensin I Converting Enzyme,Angiotensin-converting Enzyme,ENSG00000159640,P12821,0.014653,0.0546754,1,By_ingredient,0.3836
+SMTT00051,ACHE,None,acetylcholinesterase (Cartwright blood group),Acetylcholinesterase,ENSG00000087085,P22303,3.31E-38,2.58E-34,1.37E-32,By_ingredient,16.0369
+SMTT00059,ACSL4,X,Acyl-CoA Synthetase Long Chain Family Member 4,Long-chain-fatty-acid--CoA Ligase 4,ENSG00000068366,O60488,0.0114772,0.0500184,1,By_ingredient,0.4008
+SMTT00070,ACVR2B,3,Activin A Receptor Type 2B,None,ENSG00000114739,None,0.00175004,0.0221497,1,By_ingredient,0.3941
+SMTT00071,ACVRL1,12,Activin A Receptor Like Type 1,Serine/threonine-protein Kinase Receptor R3,ENSG00000139567,P37023,0.0218377,0.0636904,1,By_ingredient,0.1898
+SMTT00089,ADCY2,None,adenylate cyclase 2,Adenylate Cyclase Type 2,ENSG00000078295,Q08462,0.0125529,0.0300666,1,By_ingredient,0.1751
+SMTT00100,ADORA2A,None,adenosine A2a receptor,Adenosine Receptor A2a,ENSG00000128271,P29274,0.0157426,0.0562622,1,By_ingredient,0.4748
+SMTT00102,ADRA1A,None,adrenoceptor alpha 1A,Alpha-1A Adrenergic Receptor,ENSG00000120907,P35348,9.56E-14,5.30E-11,3.95E-08,By_ingredient,4.6986
+SMTT00103,ADRA2A,None,adrenoceptor alpha 2A,Alpha-2A Adrenergic Receptor,ENSG00000150594,P08913,9.79E-11,3.02E-08,4.05E-05,By_ingredient,3.3666
+SMTT00104,ADRA2B,2,Adrenoceptor Alpha 2B,Alpha-2B Adrenergic Receptor,ENSG00000274286,P18089,0.000117159,0.003698,1,By_ingredient,1.3904
+SMTT00105,ADRB1,None,adrenoceptor beta 1,Beta-1 Adrenergic Receptor,ENSG00000043591,P08588,3.51E-14,2.05E-11,1.45E-08,By_ingredient,3.8987
+SMTT00106,ADRB2,None,adrenoceptor beta 2,Beta-2 Adrenergic Receptor,ENSG00000169252,P07550,1.64E-10,4.82E-08,6.78E-05,By_ingredient,6.082
+SMTT00107,ADRB3,None,adrenoceptor beta 3,Beta-3 Adrenergic Receptor,ENSG00000188778,P13945,0.0109627,0.0495122,1,By_ingredient,0.481
+SMTT00122,AGT,1,Angiotensinogen,Angiotensinogen,ENSG00000135744,P01019,0.0612147,0.0844548,1,By_ingredient,0.1664
+SMTT00123,AGTR1,3,Angiotensin II Receptor Type 1,Type-1 Angiotensin II Receptor,ENSG00000144891,P30556,0.016636,0.0575448,1,By_ingredient,0.5352
+SMTT00124,AGTR2,X,Angiotensin II Receptor Type 2,Type-2 Angiotensin II Receptor,ENSG00000180772,P50052,0.00161549,0.0210028,1,By_ingredient,0.5931
+SMTT00129,AHR,None,aryl hydrocarbon receptor,Aryl Hydrocarbon Receptor,ENSG00000106546,P35869,0.0167717,0.0353539,1,By_ingredient,0.3487
+SMTT00139,AKR1B1,None,aldo-keto reductase family 1 member B,Aldose Reductase,ENSG00000085662,P15121,0.00019859,0.00534439,1,By_ingredient,1.4992
+SMTT00140,AKR1C1,None,aldo-keto reductase family 1 member C1,Aldo-keto Reductase Family 1 Member C1,ENSG00000187134,Q04828,6.25E-06,0.000404467,1,By_ingredient,1.2117
+SMTT00141,AKR1C2,10,Aldo-keto Reductase Family 1 Member C2,Aldo-keto Reductase Family 1 Member C2,ENSG00000151632,P52895,0.00204428,0.0237005,1,By_ingredient,0.7958
+SMTT00142,AKR1C3,None,aldo-keto reductase family 1 member C3,Aldo-keto Reductase Family 1 Member C3,ENSG00000196139,P42330,8.35E-05,0.00288252,1,By_ingredient,0.9548
+SMTT00144,AKT1,14,AKT Serine/threonine Kinase 1,RAC-alpha Serine/threonine-protein Kinase,ENSG00000142208,P31749,0.00700034,0.0415272,1,By_ingredient,1.0076
+SMTT00147,ALAD,9,Aminolevulinate Dehydratase,Delta-aminolevulinic Acid Dehydratase,ENSG00000148218,P13716,0.0100189,0.0474436,1,By_ingredient,0.3461
+SMTT00148,ALAS1,None,5'-aminolevulinate synthase 1,"5-aminolevulinate Synthase, Nonspecific, Mitochondrial",ENSG00000023330,P13196,0.0492779,0.0716808,1,By_ingredient,0.1691
+SMTT00149,ALAS2,X,5'-aminolevulinate Synthase 2,"5-aminolevulinate Synthase, Erythroid-specific, Mitochondrial",ENSG00000158578,P22557,0.0730022,0.0969123,1,By_ingredient,0.1734
+SMTT00151,ALDH18A1,10,Aldehyde Dehydrogenase 18 Family Member A1,Delta-1-pyrroline-5-carboxylate Synthase,ENSG00000059573,P54886,0.0125529,0.0300666,1,By_ingredient,None
+SMTT00153,ALDH2,12,Aldehyde Dehydrogenase 2 Family Member,"Aldehyde Dehydrogenase, Mitochondrial",ENSG00000111275,P05091,0.193329,0.220754,1,By_ingredient,0.1608
+SMTT00160,ALDOA,16,"Aldolase, Fructose-bisphosphate A",Fructose-bisphosphate Aldolase A,ENSG00000149925|ENSG00000285043,P04075,0.0003452,0.00774661,1,By_ingredient,0.5668
+SMTT00167,ALG2,9,"ALG2, Alpha-1,3/1,6-mannosyltransferase",None,ENSG00000119523,None,0.00321961,0.0304786,1,By_ingredient,0.4132
+SMTT00175,ALOX5,None,arachidonate 5-lipoxygenase,Arachidonate 5-lipoxygenase,ENSG00000012779,P09917,0.000513701,0.00450971,1,By_ingredient,0.8737
+SMTT00184,AMD1,None,adenosylmethionine decarboxylase 1,S-adenosylmethionine Decarboxylase Proenzyme,ENSG00000123505,P17707,0.0730022,0.0969123,1,By_ingredient,0.1631
+SMTT00193,AMT,3,Aminomethyltransferase,"Aminomethyltransferase, Mitochondrial",ENSG00000145020,P48728,0.0325776,0.0745352,1,By_ingredient,0.1731
+SMTT00194,AMY2A,None,"amylase, alpha 2A (pancreatic)",Pancreatic Alpha-amylase,ENSG00000243480,P04746,0.233114,0.261607,1,By_ingredient,0.1577
+SMTT00197,ANK1,8,Ankyrin 1,None,ENSG00000029534,None,8.56E-07,8.02E-05,0.353777,By_ingredient,1.0355
+SMTT00198,ANK2,4,Ankyrin 2,None,ENSG00000145362,None,6.09E-07,6.03E-05,0.251985,By_ingredient,1.018
+SMTT00199,ANK3,10,Ankyrin 3,None,ENSG00000151150,None,1.17E-06,0.000104736,0.485453,By_ingredient,1.0086
+SMTT00202,ANKRD1,10,Ankyrin Repeat Domain 1,None,ENSG00000148677,None,8.39E-06,0.000503439,1,By_ingredient,1.001
+SMTT00203,ANKRD11,16,Ankyrin Repeat Domain 11,None,ENSG00000167522,None,0.0109789,0.0495377,1,By_ingredient,0.21
+SMTT00204,ANKRD26,10,Ankyrin Repeat Domain 26,None,ENSG00000107890,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.867
+SMTT00205,ANKRD55,5,Ankyrin Repeat Domain 55,None,ENSG00000164512,None,4.23E-07,4.45E-05,0.174808,By_ingredient,1.0313
+SMTT00206,ANKS6,9,Ankyrin Repeat And Sterile Alpha Motif Domain Containing 6,None,ENSG00000165138,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9979
+SMTT00214,ANTXR2,4,Anthrax Toxin Receptor 2,Anthrax Toxin Receptor 2,ENSG00000163297,P58335,0.0125529,0.0300666,1,By_ingredient,0.1741
+SMTT00215,ANXA5,None,annexin A5,Annexin A5,ENSG00000164111,P08758,0.0100189,0.0474436,1,By_ingredient,0.4335
+SMTT00232,APOB,2,Apolipoprotein B,None,ENSG00000084674,None,0.0612147,0.0844548,1,By_ingredient,0.2235
+SMTT00236,APOE,19,Apolipoprotein E,Apolipoprotein E,ENSG00000130203,P02649,0.0240104,0.0656908,1,By_ingredient,0.3733
+SMTT00238,APP,21,Amyloid Beta Precursor Protein,Amyloid Beta A4 Protein,ENSG00000142192,P05067,0.00953346,0.0261823,1,By_ingredient,0.338
+SMTT00244,AR,X,Androgen Receptor,Androgen Receptor,ENSG00000169083,P10275,0.99909,0.999778,1,By_ingredient,6.3602
+SMTT00250,ARHGDIA,17,Rho GDP Dissociation Inhibitor Alpha,None,ENSG00000141522,None,0.00509985,0.0364165,1,By_ingredient,0.3933
+SMTT00269,ASB10,7,Ankyrin Repeat And SOCS Box Containing 10,None,ENSG00000146926,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8308
+SMTT00272,ASL,7,Argininosuccinate Lyase,Argininosuccinate Lyase,ENSG00000126522,P04424,0.0325776,0.0745352,1,By_ingredient,0.1718
+SMTT00295,ATP2C1,3,ATPase Secretory Pathway Ca2+ Transporting 1,Calcium-transporting ATPase Type 2C Member 1,ENSG00000017260,P98194,0.118696,0.144299,1,By_ingredient,0.2165
+SMTT00313,ATXN1,6,Ataxin 1,None,ENSG00000124788,None,0.00071028,0.0126907,1,By_ingredient,0.3811
+SMTT00325,AVPR2,X,Arginine Vasopressin Receptor 2,Vasopressin V2 Receptor,ENSG00000126895,P30518,0.0071546,0.0417534,1,By_ingredient,0.5027
+SMTT00356,BCHE,None,butyrylcholinesterase,Cholinesterase,ENSG00000114200,P06276,0.217705,0.245732,1,By_ingredient,0.7988
+SMTT00361,BCL2,18,"BCL2, Apoptosis Regulator",Apoptosis Regulator Bcl-2,ENSG00000171791,P10415,0.000131604,0.00400771,1,By_ingredient,1.9206
+SMTT00362,BCL2L1,None,BCL2 like 1,Bcl-2-like Protein 1,ENSG00000171552,Q07817,0.00740912,0.0230391,1,By_ingredient,0.5196
+SMTT00363,BCL2L2,None,BCL2 like 2,Bcl-2-like Protein 2,ENSG00000129473,Q92843,0.00737226,0.0422421,1,By_ingredient,0.3735
+SMTT00369,BDNF,11,Brain Derived Neurotrophic Factor,Brain-derived Neurotrophic Factor,ENSG00000176697,P23560,0.0116908,0.0501417,1,By_ingredient,0.5203
+SMTT00380,BIRC5,None,baculoviral IAP repeat containing 5,Baculoviral IAP Repeat-containing Protein 5,ENSG00000089685,O15392,0.0225834,0.0647543,1,By_ingredient,0.5516
+SMTT00434,CA1,None,carbonic anhydrase 1,Carbonic Anhydrase 1,ENSG00000133742,P00915,0.213472,0.241428,1,By_ingredient,0.1759
+SMTT00436,CA2,8,Carbonic Anhydrase 2,Carbonic Anhydrase 2,ENSG00000104267,P00918,1.04E-22,1.85E-19,4.29E-17,By_ingredient,14.2534
+SMTT00443,CACNA1A,19,Calcium Voltage-gated Channel Subunit Alpha1 A,Voltage-dependent P/Q-type Calcium Channel Subunit Alpha-1A,ENSG00000141837,O00555,0.0218377,0.0636904,1,By_ingredient,0.1821
+SMTT00444,CACNA1B,9,Calcium Voltage-gated Channel Subunit Alpha1 B,Voltage-dependent N-type Calcium Channel Subunit Alpha-1B,ENSG00000148408,Q00975,0.0325776,0.0745352,1,By_ingredient,0.2049
+SMTT00446,CACNA1D,3,Calcium Voltage-gated Channel Subunit Alpha1 D,Voltage-dependent L-type Calcium Channel Subunit Alpha-1D,ENSG00000157388,Q01668,0.0432001,0.0847847,1,By_ingredient,0.1776
+SMTT00447,CACNA1F,X,Calcium Voltage-gated Channel Subunit Alpha1 F,Voltage-dependent L-type Calcium Channel Subunit Alpha-1F,ENSG00000102001,O60840,0.0325776,0.0745352,1,By_ingredient,0.1955
+SMTT00448,CACNA1G,17,Calcium Voltage-gated Channel Subunit Alpha1 G,Voltage-dependent T-type Calcium Channel Subunit Alpha-1G,ENSG00000006283,O43497,0.0218377,0.0636904,1,By_ingredient,0.2001
+SMTT00459,CALM1,14,Calmodulin 1,Calmodulin,ENSG00000198668,P0DP23,0.0100189,0.0474436,1,By_ingredient,0.4161
+SMTT00461,CALM3,19,Calmodulin 3,None,ENSG00000160014,None,0.982841,0.986569,1,By_ingredient,0.6708
+SMTT00480,CASP3,None,caspase 3,Caspase-3,ENSG00000164305,P42574,3.04E-06,0.00022812,1,By_ingredient,2.3974
+SMTT00481,CASP7,None,caspase 7,Caspase-7,ENSG00000165806,P55210,0.0961369,0.120918,1,By_ingredient,0.1475
+SMTT00482,CASP8,2,Caspase 8,Caspase-8,ENSG00000064012,Q14790,1.28E-05,0.000705779,1,By_ingredient,1.3447
+SMTT00487,CAT,11,Catalase,Catalase,ENSG00000121691,P04040,1.05E-06,9.55E-05,0.435202,By_ingredient,1.5138
+SMTT00488,CATSPER1,11,Cation Channel Sperm Associated 1,None,ENSG00000175294,None,0.0325776,0.0745352,1,By_ingredient,0.197
+SMTT00516,CCL2,None,C-C motif chemokine ligand 2,C-C Motif Chemokine 2,ENSG00000108691,P13500,0.0056983,0.0385213,1,By_ingredient,0.6697
+SMTT00517,CCL3,None,C-C motif chemokine ligand 3,C-C Motif Chemokine 3,ENSG00000277632,P10147,0.00321961,0.0304786,1,By_ingredient,0.353
+SMTT00520,CCNA2,None,cyclin A2,Cyclin-A2,ENSG00000145386,P20248,0.986354,0.989612,1,By_ingredient,3.2314
+SMTT00521,CCND1,11,Cyclin D1,G1/S-specific Cyclin-D1,ENSG00000110092,P24385,0.00221827,0.0125192,1,By_ingredient,0.6823
+SMTT00525,CCR1,3,C-C Motif Chemokine Receptor 1,None,ENSG00000163823,None,0.000239394,0.0060595,1,By_ingredient,0.8482
+SMTT00526,CCR2,None,C-C motif chemokine receptor 2,C-C Chemokine Receptor Type 2,ENSG00000121807,P41597,0.000313774,0.00728818,1,By_ingredient,0.7861
+SMTT00527,CCR5,None,C-C motif chemokine receptor 5 (gene/pseudogene),C-C Chemokine Receptor Type 5,ENSG00000160791,P51681,0.000342085,0.00772238,1,By_ingredient,0.8245
+SMTT00537,CD274,None,CD274 molecule,Programmed Cell Death 1 Ligand 1,ENSG00000120217,Q9NZQ7,0.00509985,0.0364165,1,By_ingredient,0.3739
+SMTT00541,CD36,7,CD36 Molecule,None,ENSG00000135218,None,0.0427042,0.0843046,1,By_ingredient,0.3276
+SMTT00546,CD40,20,CD40 Molecule,Tumor Necrosis Factor Receptor Superfamily Member 5,ENSG00000101017,P25942,0.00618817,0.0394319,1,By_ingredient,0.4057
+SMTT00547,CD40LG,X,CD40 Ligand,CD40 Ligand,ENSG00000102245,P29965,0.0612147,0.0844548,1,By_ingredient,0.1702
+SMTT00552,CD80,None,CD80 molecule,T-lymphocyte Activation Antigen CD80,ENSG00000121594,P33681,0.000202425,0.00541721,1,By_ingredient,0.5811
+SMTT00554,CD86,None,CD86 molecule,T-lymphocyte Activation Antigen CD86,ENSG00000114013,P42081,0.000945671,0.0150718,1,By_ingredient,0.5366
+SMTT00558,CDC25B,None,cell division cycle 25B,M-phase Inducer Phosphatase 2,ENSG00000101224,P30305,0.298092,0.328091,1,By_ingredient,0.148
+SMTT00559,CDC42,1,Cell Division Cycle 42,Cell Division Control Protein 42 Homolog,ENSG00000070831,P60953,0.00864991,0.0448525,1,By_ingredient,0.3892
+SMTT00569,CDK2,None,cyclin dependent kinase 2,Cyclin-dependent Kinase 2,ENSG00000123374,P24941,5.69E-05,0.00217609,1,By_ingredient,6.1451
+SMTT00570,CDK4,12,Cyclin Dependent Kinase 4,Cyclin-dependent Kinase 4,ENSG00000135446,P11802,0.000513701,0.00450971,1,By_ingredient,0.5114
+SMTT00577,CDKN1A,6,Cyclin Dependent Kinase Inhibitor 1A,Cyclin-dependent Kinase Inhibitor 1,ENSG00000124762,P38936,0.00150391,0.0200412,1,By_ingredient,0.9889
+SMTT00578,CDKN1B,12,Cyclin Dependent Kinase Inhibitor 1B,None,ENSG00000111276,None,0.00661134,0.0403439,1,By_ingredient,0.5593
+SMTT00581,CDKN2B,9,Cyclin Dependent Kinase Inhibitor 2B,None,ENSG00000147883,None,6.84E-06,0.000430479,1,By_ingredient,1.0647
+SMTT00582,CDKN2C,1,Cyclin Dependent Kinase Inhibitor 2C,None,ENSG00000123080,None,3.48E-06,0.000253932,1,By_ingredient,1.0197
+SMTT00583,CDKN2D,19,Cyclin Dependent Kinase Inhibitor 2D,None,ENSG00000129355,None,2.09E-06,0.000168016,0.862763,By_ingredient,0.9725
+SMTT00612,CETP,16,Cholesteryl Ester Transfer Protein,Cholesteryl Ester Transfer Protein,ENSG00000087237,P11597,0.0249489,0.0450476,1,By_ingredient,0.1422
+SMTT00636,CHRM1,None,cholinergic receptor muscarinic 1,Muscarinic Acetylcholine Receptor M1,ENSG00000168539,P11229,1.54E-44,2.28E-40,6.62E-39,By_ingredient,13.1146
+SMTT00637,CHRM3,1,Cholinergic Receptor Muscarinic 3,Muscarinic Acetylcholine Receptor M3,ENSG00000133019,P20309,4.09E-33,2.04E-29,1.69E-27,By_ingredient,10.2017
+SMTT00638,CHRNA1,2,Cholinergic Receptor Nicotinic Alpha 1 Subunit,Acetylcholine Receptor Subunit Alpha,ENSG00000138435,P02708,0.0125529,0.0300666,1,By_ingredient,0.2659
+SMTT00639,CHRNA2,8,Cholinergic Receptor Nicotinic Alpha 2 Subunit,Neuronal Acetylcholine Receptor Subunit Alpha-2,ENSG00000120903,Q15822,8.14E-09,1.52E-06,0.00336515,By_ingredient,2.2026
+SMTT00642,CHRNA7,15,Cholinergic Receptor Nicotinic Alpha 7 Subunit,Neuronal Acetylcholine Receptor Subunit Alpha-7,ENSG00000175344,P36544,6.67E-05,0.00245834,1,By_ingredient,2.2783
+SMTT00689,CNBP,3,CCHC-type Zinc Finger Nucleic Acid Binding Protein,None,ENSG00000169714,None,0.00117521,0.0172508,1,By_ingredient,0.4211
+SMTT00721,COL1A1,17,Collagen Type I Alpha 1 Chain,Collagen Alpha-1(I) Chain,ENSG00000108821,P02452,0.151489,0.177614,1,By_ingredient,0.2957
+SMTT00729,COL4A3,2,Collagen Type IV Alpha 3 Chain,None,ENSG00000169031,None,0.00410957,0.0334136,1,By_ingredient,0.4467
+SMTT00739,COL7A1,3,Collagen Type VII Alpha 1 Chain,None,ENSG00000114270,None,0.0130225,0.051746,1,By_ingredient,0.4226
+SMTT00777,CPT1A,11,Carnitine Palmitoyltransferase 1A,"Carnitine O-palmitoyltransferase 1, Liver Isoform",ENSG00000110090,P50416,0.03052,0.0724498,1,By_ingredient,0.3977
+SMTT00789,CRH,None,corticotropin releasing hormone,Corticoliberin,ENSG00000147571,P06850,0.0730022,0.0969123,1,By_ingredient,0.216
+SMTT00793,CRP,None,C-reactive protein,C-reactive Protein,ENSG00000132693,P02741,0.0492779,0.0716808,1,By_ingredient,0.1644
+SMTT00794,CRTAP,3,Cartilage Associated Protein,None,ENSG00000170275,None,0.000120119,0.00375531,1,By_ingredient,0.4282
+SMTT00809,CRYZ,None,crystallin zeta,Quinone Oxidoreductase,ENSG00000116791,Q08257,0.0125529,0.0300666,1,By_ingredient,0.1851
+SMTT00811,CSF2,None,colony stimulating factor 2,Granulocyte-macrophage Colony-stimulating Factor,ENSG00000164400,P04141,0.0181608,0.0589026,1,By_ingredient,0.3621
+SMTT00820,CSTB,21,Cystatin B,Cystatin-B,ENSG00000160213,P04080,0.00071028,0.0126907,1,By_ingredient,0.3811
+SMTT00826,CTH,1,Cystathionine Gamma-lyase,Cystathionine Gamma-lyase,ENSG00000116761,P32929,0.0448393,0.0670828,1,By_ingredient,0.3256
+SMTT00830,CTNNB1,3,Catenin Beta 1,Catenin Beta-1,ENSG00000168036,P35222,0.151489,0.177614,1,By_ingredient,0.1616
+SMTT00836,CTSB,None,cathepsin B,Cathepsin B,ENSG00000164733,P07858,0.118696,0.144299,1,By_ingredient,0.1536
+SMTT00838,CTSD,11,Cathepsin D,Cathepsin D,ENSG00000117984,P07339,0.0079041,0.0260675,1,By_ingredient,1.2057
+SMTT00849,CXCL10,None,C-X-C motif chemokine ligand 10,C-X-C Motif Chemokine 10,ENSG00000169245,P02778,0.0352021,0.0767794,1,By_ingredient,0.3723
+SMTT00850,CXCL12,None,C-X-C motif chemokine ligand 12,Stromal Cell-derived Factor 1,ENSG00000107562,P48061,0.0371899,0.0588313,1,By_ingredient,0.1774
+SMTT00851,CXCL8,None,C-X-C motif chemokine ligand 8,Interleukin-8,ENSG00000169429,P10145,0.00442047,0.0190975,1,By_ingredient,1.4438
+SMTT00852,CXCR4,2,C-X-C Motif Chemokine Receptor 4,C-X-C Chemokine Receptor Type 4,ENSG00000121966,P61073,0.000111541,0.00356228,1,By_ingredient,1.0077
+SMTT00855,CYBA,16,Cytochrome B-245 Alpha Chain,Cytochrome B-245 Light Chain,ENSG00000051523,P13498,0.0249489,0.0450476,1,By_ingredient,0.1984
+SMTT00858,CYCS,7,"Cytochrome C, Somatic",Cytochrome C,ENSG00000172115,P99999,0.0612147,0.0844548,1,By_ingredient,None
+SMTT00865,CYP1A1,None,cytochrome P450 family 1 subfamily A member 1,Cytochrome P450 1A1,ENSG00000140465,P04798,0.00457491,0.0182643,1,By_ingredient,0.7092
+SMTT00866,CYP1A2,None,cytochrome P450 family 1 subfamily A member 2,Cytochrome P450 1A2,ENSG00000140505,P05177,0.203464,0.231204,1,By_ingredient,0.1457
+SMTT00867,CYP1B1,2,Cytochrome P450 Family 1 Subfamily B Member 1,Cytochrome P450 1B1,ENSG00000138061,Q16678,0.0730022,0.0969123,1,By_ingredient,0.1939
+SMTT00874,CYP2A6,19,Cytochrome P450 Family 2 Subfamily A Member 6,Cytochrome P450 2A6,ENSG00000255974,P11509,0.0125529,0.0300666,1,By_ingredient,0.1933
+SMTT00875,CYP2B6,None,cytochrome P450 family 2 subfamily B member 6,Cytochrome P450 2B6,ENSG00000197408,P20813,0.118696,0.144299,1,By_ingredient,0.4016
+SMTT00880,CYP2E1,None,cytochrome P450 family 2 subfamily E member 1,Cytochrome P450 2E1,ENSG00000130649,P05181,0.00801044,0.0239716,1,By_ingredient,0.3664
+SMTT00883,CYP3A4,None,cytochrome P450 family 3 subfamily A member 4,Cytochrome P450 3A4,ENSG00000160868,P08684,0.057507,0.0804749,1,By_ingredient,0.5066
+SMTT00895,DAO,12,D-amino Acid Oxidase,D-amino-acid Oxidase,ENSG00000110887,P14920,0.014653,0.0546754,1,By_ingredient,0.3717
+SMTT00914,DCTN4,5,Dynactin Subunit 4,None,ENSG00000132912,None,1.29E-05,0.00070867,1,By_ingredient,0.6549
+SMTT00920,DDIT3,12,DNA Damage Inducible Transcript 3,None,ENSG00000175197,None,0.000105374,0.0034037,1,By_ingredient,0.877
+SMTT00940,DHCR7,11,7-dehydrocholesterol Reductase,7-dehydrocholesterol Reductase,ENSG00000172893,Q9UBM7,0.00243231,0.0261241,1,By_ingredient,0.3886
+SMTT00942,DHFR,5,Dihydrofolate Reductase,Dihydrofolate Reductase,ENSG00000228716,P00374,0.0114772,0.0500184,1,By_ingredient,0.4261
+SMTT00946,DIABLO,12,Diablo IAP-binding Mitochondrial Protein,"Diablo Homolog, Mitochondrial",ENSG00000184047|ENSG00000284934,Q9NR28,0.0432001,0.0847847,1,By_ingredient,0.2185
+SMTT00962,DLG4,None,discs large MAGUK scaffold protein 4,Disks Large Homolog 4,ENSG00000132535,P78352,0.0218377,0.0450476,1,By_ingredient,0.2046
+SMTT00971,DMPK,19,DM1 Protein Kinase,Myotonin-protein Kinase,ENSG00000104936,Q09013,0.0218377,0.0636904,1,By_ingredient,0.1795
+SMTT00989,DNAJC3,13,DnaJ Heat Shock Protein Family (Hsp40) Member C3,None,ENSG00000102580,None,0.00175004,0.0221497,1,By_ingredient,0.4073
+SMTT00999,DNMT3B,20,DNA Methyltransferase 3 Beta,None,ENSG00000088305,None,0.00509985,0.0364165,1,By_ingredient,0.3909
+SMTT01000,DNPEP,None,aspartyl aminopeptidase,Aspartyl Aminopeptidase,ENSG00000123992,Q9ULA0,0.0125529,0.0300666,1,By_ingredient,0.1774
+SMTT01018,DRD1,None,dopamine receptor D1,D(1A) Dopamine Receptor,ENSG00000184845,P21728,0.000158834,0.00456433,1,By_ingredient,1.7103
+SMTT01019,DRD2,11,Dopamine Receptor D2,D(2) Dopamine Receptor,ENSG00000149295,P14416,0.0435163,0.0850935,1,By_ingredient,0.7237
+SMTT01020,DRD3,None,dopamine receptor D3,D(3) Dopamine Receptor,ENSG00000151577,P35462,0.00855863,0.0447897,1,By_ingredient,0.6841
+SMTT01035,DUSP6,12,Dual Specificity Phosphatase 6,None,ENSG00000139318,None,0.0003452,0.00774661,1,By_ingredient,0.5788
+SMTT01036,DUT,None,deoxyuridine triphosphatase,"Deoxyuridine 5'-triphosphate Nucleotidohydrolase, Mitochondrial",ENSG00000128951,P33316,0.00243231,0.0261241,1,By_ingredient,0.3784
+SMTT01047,EBP,X,Emopamil Binding Protein (sterol Isomerase),"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",ENSG00000147155,Q15125,0.00175004,0.0221497,1,By_ingredient,0.3889
+SMTT01057,EDN1,6,Endothelin 1,Endothelin-1,ENSG00000078401,P05305,0.140695,0.166626,1,By_ingredient,0.3184
+SMTT01059,EDNRA,4,Endothelin Receptor Type A,Endothelin-1 Receptor,ENSG00000151617,P25101,0.0185065,0.0595531,1,By_ingredient,0.5095
+SMTT01060,EDNRB,13,Endothelin Receptor Type B,Endothelin B Receptor,ENSG00000136160,P24530,0.0109627,0.0495122,1,By_ingredient,0.5357
+SMTT01070,EGFR,7,Epidermal Growth Factor Receptor,Epidermal Growth Factor Receptor,ENSG00000146648,P00533,0.03339,0.0545261,1,By_ingredient,0.5015
+SMTT01071,EGLN1,1,Egl-9 Family Hypoxia Inducible Factor 1,Egl Nine Homolog 1,ENSG00000135766,Q9GZT9,0.0371899,0.0588313,1,By_ingredient,0.1948
+SMTT01072,EGR2,10,Early Growth Response 2,None,ENSG00000122877,None,0.00410957,0.0334136,1,By_ingredient,0.3999
+SMTT01074,EHMT1,9,Euchromatic Histone Lysine Methyltransferase 1,None,ENSG00000181090,None,1.17E-06,0.000104736,0.485453,By_ingredient,0.93
+SMTT01084,EIF6,None,eukaryotic translation initiation factor 6,Eukaryotic Translation Initiation Factor 6,ENSG00000242372,P56537,0.0510303,0.0736709,1,By_ingredient,0.3142
+SMTT01086,ELANE,19,"Elastase, Neutrophil Expressed",Neutrophil Elastase,ENSG00000197561,P08246,0.0492779,0.0716808,1,By_ingredient,0.3167
+SMTT01103,ENOX2,None,ecto-NOX disulfide-thiol exchanger 2,Ecto-NOX Disulfide-thiol Exchanger 2,ENSG00000165675,Q16206,0.0125529,0.0300666,1,By_ingredient,0.1653
+SMTT01104,ENPEP,None,glutamyl aminopeptidase,Glutamyl Aminopeptidase,ENSG00000138792,Q07075,0.0249489,0.0450476,1,By_ingredient,0.1629
+SMTT01108,EP300,22,E1A Binding Protein P300,None,ENSG00000100393,None,0.0371899,0.0588313,1,By_ingredient,0.1683
+SMTT01109,EPAS1,2,Endothelial PAS Domain Protein 1,None,ENSG00000116016,None,0.0432001,0.0847847,1,By_ingredient,0.2141
+SMTT01113,EPCAM,2,Epithelial Cell Adhesion Molecule,Epithelial Cell Adhesion Molecule,ENSG00000119888,P16422,0.000120119,0.00375531,1,By_ingredient,0.4269
+SMTT01118,EPHX1,1,Epoxide Hydrolase 1,None,ENSG00000143819,None,0.00509985,0.0364165,1,By_ingredient,0.3797
+SMTT01124,ERBB2,17,Erb-b2 Receptor Tyrosine Kinase 2,Receptor Tyrosine-protein Kinase ErbB-2,ENSG00000141736,P04626,0.00227707,0.0127394,1,By_ingredient,0.3125
+SMTT01140,ESPN,1,Espin,None,ENSG00000187017,None,8.56E-07,8.02E-05,0.353777,By_ingredient,0.9115
+SMTT01141,ESR1,6,Estrogen Receptor 1,Estrogen Receptor,ENSG00000091831,P03372,8.57E-05,0.00294005,1,By_ingredient,10.5114
+SMTT01142,ESR2,None,estrogen receptor 2,Estrogen Receptor Beta,ENSG00000140009,Q92731,0.989583,0.992244,1,By_ingredient,2.7222
+SMTT01161,EYS,6,Eyes Shut Homolog (Drosophila),None,ENSG00000188107,None,0.0218377,0.0636904,1,By_ingredient,0.2222
+SMTT01166,F13A1,6,Coagulation Factor XIII A Chain,Coagulation Factor XIII A Chain,ENSG00000124491,P00488,0.0352021,0.0767794,1,By_ingredient,0.3495
+SMTT01170,F3,None,"coagulation factor III, tissue factor",Tissue Factor,ENSG00000117525,P13726,0.0147964,0.0331133,1,By_ingredient,0.3662
+SMTT01175,FA2H,16,Fatty Acid 2-hydroxylase,None,ENSG00000103089,None,0.000357738,0.00792072,1,By_ingredient,0.4347
+SMTT01181,FAM111B,11,Family With Sequence Similarity 111 Member B,None,ENSG00000189057,None,0.0109789,0.0495377,1,By_ingredient,0.2212
+SMTT01215,FCER2,None,Fc fragment of IgE receptor II,Low Affinity Immunoglobulin Epsilon Fc Receptor,ENSG00000104921,P06734,0.0730022,0.0969123,1,By_ingredient,0.1684
+SMTT01220,FECH,18,Ferrochelatase,"Ferrochelatase, Mitochondrial",ENSG00000066926,P22830,0.000659621,0.0120763,1,By_ingredient,0.5756
+SMTT01272,FOS,14,"Fos Proto-oncogene, AP-1 Transcription Factor Subunit",Proto-oncogene C-Fos,ENSG00000170345,P01100,0.000195169,0.00232762,1,By_ingredient,1.1493
+SMTT01287,FPR1,None,formyl peptide receptor 1,FMet-Leu-Phe Receptor,ENSG00000171051,P21462,0.00111391,0.0167694,1,By_ingredient,0.5088
+SMTT01301,FTL,19,Ferritin Light Chain,Ferritin Light Chain,ENSG00000087086,P02792,0.000106858,0.0034422,1,By_ingredient,0.829
+SMTT01305,FUS,16,FUS RNA Binding Protein,None,ENSG00000089280,None,0.0125529,0.0300666,1,By_ingredient,0.1918
+SMTT01317,G6PD,X,Glucose-6-phosphate Dehydrogenase,Glucose-6-phosphate 1-dehydrogenase,ENSG00000160211,P11413,3.82E-05,0.00163412,1,By_ingredient,0.9664
+SMTT01320,GABRA1,5,Gamma-aminobutyric Acid Type A Receptor Alpha1 Subunit,Gamma-aminobutyric Acid Receptor Subunit Alpha-1,ENSG00000022355,P14867,9.32E-37,6.42E-33,3.85E-31,By_ingredient,13.6021
+SMTT01327,GAD2,None,glutamate decarboxylase 2,Glutamate Decarboxylase 2,ENSG00000136750,Q05329,0.0125529,0.0300666,1,By_ingredient,0.1928
+SMTT01328,GAL,11,Galanin And GMAP Prepropeptide,None,ENSG00000069482,None,0.00197088,0.0233139,1,By_ingredient,0.5155
+SMTT01333,GALT,9,Galactose-1-phosphate Uridylyltransferase,None,ENSG00000213930,None,0.0432001,0.0847847,1,By_ingredient,0.1727
+SMTT01337,GAPDH,None,glyceraldehyde-3-phosphate dehydrogenase,Glyceraldehyde-3-phosphate Dehydrogenase,ENSG00000111640,P04406,0.00282406,0.0284317,1,By_ingredient,0.5128
+SMTT01342,GATA3,10,GATA Binding Protein 3,None,ENSG00000107485,None,0.00321961,0.0304786,1,By_ingredient,0.3872
+SMTT01348,GATM,15,Glycine Amidinotransferase,"Glycine Amidinotransferase, Mitochondrial",ENSG00000171766,P50440,0.151523,0.177653,1,By_ingredient,0.4664
+SMTT01350,GBA2,9,Glucosylceramidase Beta 2,None,ENSG00000070610,None,0.0125529,0.0300666,1,By_ingredient,0.1917
+SMTT01353,GCH1,14,GTP Cyclohydrolase 1,GTP Cyclohydrolase 1,ENSG00000131979,P30793,0.00410957,0.0334136,1,By_ingredient,0.3737
+SMTT01355,GCLC,6,Glutamate-cysteine Ligase Catalytic Subunit,Glutamate--cysteine Ligase Catalytic Subunit,ENSG00000001084,P48506,9.40E-05,0.0031414,1,By_ingredient,0.9421
+SMTT01377,GHSR,3,Growth Hormone Secretagogue Receptor,Growth Hormone Secretagogue Receptor Type 1,ENSG00000121853,Q92847,0.0109627,0.0495122,1,By_ingredient,0.4409
+SMTT01392,GLB1,3,Galactosidase Beta 1,None,ENSG00000170266,None,0.289156,0.318935,1,By_ingredient,0.1597
+SMTT01404,GLS2,None,glutaminase 2,"Glutaminase Liver Isoform, Mitochondrial",ENSG00000135423,Q9UI32,0.0249489,0.0450476,1,By_ingredient,0.2161
+SMTT01406,GLUL,1,Glutamate-ammonia Ligase,Glutamine Synthetase,ENSG00000135821,P15104,0.0730022,0.0969123,1,By_ingredient,0.153
+SMTT01426,GNMT,6,Glycine N-methyltransferase,Glycine N-methyltransferase,ENSG00000124713,Q14749,0.213472,0.241428,1,By_ingredient,0.1471
+SMTT01431,GNRHR,4,Gonadotropin Releasing Hormone Receptor,Gonadotropin-releasing Hormone Receptor,ENSG00000109163,P30968,0.0116908,0.0501417,1,By_ingredient,0.5317
+SMTT01436,GOT1,None,glutamic-oxaloacetic transaminase 1,"Aspartate Aminotransferase, Cytoplasmic",ENSG00000120053,P17174,0.412054,0.443859,1,By_ingredient,0.1702
+SMTT01449,GPR101,X,G Protein-coupled Receptor 101,None,ENSG00000165370,None,0.00661134,0.0403439,1,By_ingredient,0.4723
+SMTT01451,GPR161,1,G Protein-coupled Receptor 161,None,ENSG00000143147,None,0.00661134,0.0403439,1,By_ingredient,0.4509
+SMTT01454,GPR88,1,G Protein-coupled Receptor 88,None,ENSG00000181656,None,0.00661134,0.0403439,1,By_ingredient,0.4575
+SMTT01456,GPT,None,glutamic--pyruvic transaminase,Alanine Aminotransferase 1,ENSG00000167701,P24298,0.441088,0.4733,1,By_ingredient,0.1636
+SMTT01457,GPT2,16,Glutamic--pyruvic Transaminase 2,Alanine Aminotransferase 2,ENSG00000166123,Q8TD30,0.0961369,0.120918,1,By_ingredient,0.1598
+SMTT01458,GPX1,3,Glutathione Peroxidase 1,Glutathione Peroxidase 1,ENSG00000233276,P07203,0.0181608,0.0589026,1,By_ingredient,0.3717
+SMTT01464,GRIA2,None,glutamate ionotropic receptor AMPA type subunit 2,Glutamate Receptor 2,ENSG00000120251,P42262,0.148424,0.17451,1,By_ingredient,1.0497
+SMTT01468,GRIN1,9,Glutamate Ionotropic Receptor NMDA Type Subunit 1,"Glutamate Receptor Ionotropic, NMDA 1",ENSG00000176884,Q05586,0.213472,0.241428,1,By_ingredient,0.1647
+SMTT01472,GRIN3A,None,glutamate ionotropic receptor NMDA type subunit 3A,"Glutamate Receptor Ionotropic, NMDA 3A",ENSG00000198785,Q8TCU5,0.107488,0.132762,1,By_ingredient,0.1763
+SMTT01483,GSK3B,None,glycogen synthase kinase 3 beta,Glycogen Synthase Kinase-3 Beta,ENSG00000082701,P49841,0.989848,0.992397,1,By_ingredient,3.3488
+SMTT01485,GSR,None,glutathione-disulfide reductase,"Glutathione Reductase, Mitochondrial",ENSG00000104687,P00390,4.39E-05,0.00180507,1,By_ingredient,0.9584
+SMTT01487,GSTA1,None,glutathione S-transferase alpha 1,Glutathione S-transferase A1,ENSG00000243955,P08263,0.0961369,0.120918,1,By_ingredient,0.1676
+SMTT01488,GSTA2,None,glutathione S-transferase alpha 2,Glutathione S-transferase A2,ENSG00000244067,P09210,0.00316154,0.015165,1,By_ingredient,0.3767
+SMTT01489,GSTM1,None,glutathione S-transferase mu 1,Glutathione S-transferase Mu 1,ENSG00000134184,P09488,0.129765,0.15553,1,By_ingredient,0.1698
+SMTT01491,GSTP1,None,glutathione S-transferase pi 1,Glutathione S-transferase P,ENSG00000084207,P09211,0.00507693,0.0190975,1,By_ingredient,0.4996
+SMTT01501,GUSB,7,Glucuronidase Beta,None,ENSG00000169919,None,0.0612147,0.0844548,1,By_ingredient,0.1457
+SMTT01510,HACE1,6,HECT Domain And Ankyrin Repeat Containing E3 Ubiquitin Protein Ligase 1,None,ENSG00000085382,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.9674
+SMTT01513,HADHB,2,Hydroxyacyl-CoA Dehydrogenase Trifunctional Multienzyme Complex Subunit Beta,None,ENSG00000138029,None,0.0612147,0.0844548,1,By_ingredient,0.181
+SMTT01533,HDC,None,histidine decarboxylase,Histidine Decarboxylase,ENSG00000140287,P19113,0.0492779,0.0716808,1,By_ingredient,0.1645
+SMTT01550,HIF1A,None,hypoxia inducible factor 1 alpha subunit,Hypoxia-inducible Factor 1-alpha,ENSG00000100644,Q16665,0.242751,0.271433,1,By_ingredient,0.319
+SMTT01552,HIRA,22,Histone Cell Cycle Regulator,None,ENSG00000100084,None,0.0125529,0.0300666,1,By_ingredient,0.1956
+SMTT01567,HMGCR,None,3-hydroxy-3-methylglutaryl-CoA reductase,3-hydroxy-3-methylglutaryl-coenzyme A Reductase,ENSG00000113161,P04035,0.000642066,0.00526643,1,By_ingredient,0.5412
+SMTT01569,HMOX1,22,Heme Oxygenase 1,Heme Oxygenase 1,ENSG00000100292,P09601,1.37E-05,0.000743494,1,By_ingredient,1.716
+SMTT01573,HNF4A,20,Hepatocyte Nuclear Factor 4 Alpha,Hepatocyte Nuclear Factor 4-alpha,ENSG00000101076,P41235,0.0371899,0.0588313,1,By_ingredient,None
+SMTT01602,HRH2,None,histamine receptor H2,Histamine H2 Receptor,ENSG00000113749,P25021,0.00772357,0.0434183,1,By_ingredient,0.5183
+SMTT01603,HS3ST3A1,None,heparan sulfate-glucosamine 3-sulfotransferase 3A1,Heparan Sulfate Glucosamine 3-O-sulfotransferase 3A1,ENSG00000153976,Q9Y663,0.0125529,0.0300666,1,By_ingredient,0.1983
+SMTT01614,HSF1,None,heat shock transcription factor 1,Heat Shock Factor Protein 1,ENSG00000185122,Q00613,0.0200342,0.061282,1,By_ingredient,0.3598
+SMTT01617,HSPA2,None,heat shock protein family A (Hsp70) member 2,Heat Shock-related 70 KDa Protein 2,ENSG00000126803,P54652,0.00410957,0.0334136,1,By_ingredient,0.3977
+SMTT01623,HSPD1,2,Heat Shock Protein Family D (Hsp60) Member 1,"60 KDa Heat Shock Protein, Mitochondrial",ENSG00000144381,P10809,0.0114772,0.0500184,1,By_ingredient,0.3463
+SMTT01625,HTR1A,5,5-hydroxytryptamine Receptor 1A,5-hydroxytryptamine Receptor 1A,ENSG00000178394,P08908,2.21E-05,0.00108241,1,By_ingredient,1.0763
+SMTT01626,HTR1B,None,5-hydroxytryptamine receptor 1B,5-hydroxytryptamine Receptor 1B,ENSG00000135312,P28222,0.00189355,0.022902,1,By_ingredient,0.6506
+SMTT01627,HTR2A,None,5-hydroxytryptamine receptor 2A,5-hydroxytryptamine Receptor 2A,ENSG00000102468,P28223,0.0185065,0.0595531,1,By_ingredient,0.501
+SMTT01628,HTR3A,None,5-hydroxytryptamine receptor 3A,5-hydroxytryptamine Receptor 3A,ENSG00000166736,P46098,0.27511,0.30454,1,By_ingredient,0.3795
+SMTT01630,HTT,4,Huntingtin,Huntingtin,ENSG00000197386,P42858,0.000357738,0.00792072,1,By_ingredient,0.4116
+SMTT01638,ICAM1,None,intercellular adhesion molecule 1,Intercellular Adhesion Molecule 1,ENSG00000090339,P05362,1.54E-06,0.000130955,0.637097,By_ingredient,1.3681
+SMTT01640,ICOS,2,Inducible T Cell Costimulator,None,ENSG00000163600,None,0.0109789,0.0495377,1,By_ingredient,0.2313
+SMTT01651,IFNB1,None,interferon beta 1,Interferon Beta,ENSG00000171855,P01574,0.0371899,0.0588313,1,By_ingredient,0.1882
+SMTT01652,IFNG,None,interferon gamma,Interferon Gamma,ENSG00000111537,P01579,0.00204428,0.0237005,1,By_ingredient,0.7921
+SMTT01669,IGFBP7,4,Insulin Like Growth Factor Binding Protein 7,Insulin-like Growth Factor-binding Protein 7,ENSG00000163453,Q16270,0.000120119,0.00375531,1,By_ingredient,0.4196
+SMTT01671,IGHG1,None,immunoglobulin heavy constant gamma 1 (G1m marker),Ig Gamma-1 Chain C Region,None,P01857,7.87E-07,7.48E-05,0.325368,By_ingredient,2.6393
+SMTT01682,IL10,1,Interleukin 10,Interleukin-10,ENSG00000136634,P22301,1.22E-05,0.000679796,1,By_ingredient,1.1033
+SMTT01690,IL13,None,interleukin 13,Interleukin-13,ENSG00000169194,P35225,0.0003452,0.00686939,1,By_ingredient,0.5852
+SMTT01696,IL1A,None,interleukin 1 alpha,Interleukin-1 Alpha,ENSG00000115008,P01583,0.00609349,0.0390499,1,By_ingredient,0.5593
+SMTT01697,IL1B,None,interleukin 1 beta,Interleukin-1 Beta,ENSG00000125538,P01584,0.00659382,0.0402734,1,By_ingredient,1.0013
+SMTT01700,IL2,None,interleukin 2,Interleukin-2,ENSG00000109471,P60568,0.000475049,0.00965458,1,By_ingredient,0.8823
+SMTT01705,IL2RA,10,Interleukin 2 Receptor Subunit Alpha,Interleukin-2 Receptor Subunit Alpha,ENSG00000134460,P01589,0.0492779,0.0716808,1,By_ingredient,0.2146
+SMTT01710,IL4,None,interleukin 4,Interleukin-4,ENSG00000113520,P05112,2.32E-05,0.000518044,1,By_ingredient,1.1363
+SMTT01711,IL5,None,interleukin 5,Interleukin-5,ENSG00000113525,P05113,6.59E-05,0.00109954,1,By_ingredient,0.7967
+SMTT01712,IL6,7,Interleukin 6,Interleukin-6,ENSG00000136244,P05231,0.0332744,0.0543846,1,By_ingredient,0.6131
+SMTT01713,IL7R,5,Interleukin 7 Receptor,None,ENSG00000168685,None,0.00321961,0.0304786,1,By_ingredient,0.3815
+SMTT01724,INS,11,Insulin,Insulin,ENSG00000254647,P01308,0.00660841,0.0217182,1,By_ingredient,0.1489
+SMTT01726,INSR,19,Insulin Receptor,Insulin Receptor,ENSG00000171105,P06213,0.0730022,0.0969123,1,By_ingredient,0.1564
+SMTT01727,INVS,9,Inversin,None,ENSG00000119509,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9953
+SMTT01734,IRF6,1,Interferon Regulatory Factor 6,None,ENSG00000117595,None,0.0325776,0.0745352,1,By_ingredient,0.2524
+SMTT01744,ISYNA1,None,inositol-3-phosphate synthase 1,Inositol-3-phosphate Synthase 1,ENSG00000105655,Q9NPH2,1.92E-05,0.000450224,1,By_ingredient,0.5927
+SMTT01763,ITPKA,None,inositol-trisphosphate 3-kinase A,Inositol-trisphosphate 3-kinase A,ENSG00000137825,P23677,0.00117521,0.0172508,1,By_ingredient,0.3765
+SMTT01778,JUN,None,"Jun proto-oncogene, AP-1 transcription factor subunit",Transcription Factor AP-1,ENSG00000177606,P05412,2.28E-05,0.000511308,1,By_ingredient,1.2962
+SMTT01780,KANK1,9,KN Motif And Ankyrin Repeat Domains 1,None,ENSG00000107104,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8821
+SMTT01803,KCNH2,7,Potassium Voltage-gated Channel Subfamily H Member 2,Potassium Voltage-gated Channel Subfamily H Member 2,ENSG00000055118,Q12809,0.636307,0.665532,1,By_ingredient,0.9489
+SMTT01833,KDR,4,Kinase Insert Domain Receptor,Vascular Endothelial Growth Factor Receptor 2,ENSG00000128052,P35968,0.662946,0.691334,1,By_ingredient,0.3624
+SMTT01834,KEAP1,19,Kelch Like ECH Associated Protein 1,Kelch-like ECH-associated Protein 1,ENSG00000079999,Q14145,0.0376407,0.0793346,1,By_ingredient,0.3963
+SMTT01855,KISS1R,19,KISS1 Receptor,KiSS-1 Receptor,ENSG00000116014,Q969F8,0.0102615,0.0477541,1,By_ingredient,0.509
+SMTT01878,KRAS,12,"KRAS Proto-oncogene, GTPase",GTPase KRas,ENSG00000133703,P01116,0.00150429,0.0200442,1,By_ingredient,0.6383
+SMTT01885,KRT16,17,Keratin 16,"Keratin, Type I Cytoskeletal 16",ENSG00000186832,P08779,0.0109789,0.0495377,1,By_ingredient,0.2285
+SMTT01886,KRT17,17,Keratin 17,None,ENSG00000128422,None,0.0218377,0.0636904,1,By_ingredient,0.2209
+SMTT01926,LCT,2,Lactase,Lactase-phlorizin Hydrolase,ENSG00000115850,P09848,0.0167717,0.0353539,1,By_ingredient,0.3878
+SMTT01948,LIG4,13,DNA Ligase 4,None,ENSG00000174405,None,0.00321961,0.0304786,1,By_ingredient,0.4169
+SMTT01972,LONP1,19,"Lon Peptidase 1, Mitochondrial",None,ENSG00000196365,None,0.00071028,0.0126907,1,By_ingredient,0.4332
+SMTT01979,LPL,8,Lipoprotein Lipase,Lipoprotein Lipase,ENSG00000175445,P06858,6.84E-06,0.000430479,1,By_ingredient,0.9151
+SMTT02005,LYZ,12,Lysozyme,Lysozyme C,ENSG00000090382,P61626,1.80E-32,8.25E-29,7.43E-27,By_ingredient,7.6743
+SMTT02024,MAOA,X,Monoamine Oxidase A,Amine Oxidase [flavin-containing] A,ENSG00000189221,P21397,1.32E-20,1.74E-17,1.26E-15,By_ingredient,4.7323
+SMTT02025,MAOB,None,monoamine oxidase B,Amine Oxidase [flavin-containing] B,ENSG00000069535,P27338,3.29E-28,9.78E-25,1.36E-22,By_ingredient,8.9254
+SMTT02027,MAP2,None,microtubule associated protein 2,Microtubule-associated Protein 2,ENSG00000078018,P11137,0.000926101,0.00686939,1,By_ingredient,0.3457
+SMTT02029,MAP2K2,19,Mitogen-activated Protein Kinase Kinase 2,Dual Specificity Mitogen-activated Protein Kinase Kinase 2,ENSG00000126934,P36507,0.0003452,0.00774661,1,By_ingredient,0.6303
+SMTT02033,MAPK1,22,Mitogen-activated Protein Kinase 1,Mitogen-activated Protein Kinase 1,ENSG00000100030,P28482,0.0045769,0.0329739,1,By_ingredient,0.9943
+SMTT02034,MAPK10,4,Mitogen-activated Protein Kinase 10,Mitogen-activated Protein Kinase 10,ENSG00000109339,P53779,0.0730022,0.0969123,1,By_ingredient,0.1585
+SMTT02037,MAPK3,None,mitogen-activated protein kinase 3,Mitogen-activated Protein Kinase 3,ENSG00000102882,P27361,0.000674048,0.0122805,1,By_ingredient,1.0614
+SMTT02054,MC1R,16,Melanocortin 1 Receptor,Melanocyte-stimulating Hormone Receptor,ENSG00000258839,Q01726,0.00958725,0.0468361,1,By_ingredient,0.5501
+SMTT02055,MC2R,18,Melanocortin 2 Receptor,Adrenocorticotropic Hormone Receptor,ENSG00000185231,Q01718,0.0071546,0.0417534,1,By_ingredient,0.5058
+SMTT02056,MC4R,18,Melanocortin 4 Receptor,None,ENSG00000166603,None,0.0083185,0.0442289,1,By_ingredient,0.5173
+SMTT02062,MCL1,None,"MCL1, BCL2 family apoptosis regulator",Induced Myeloid Leukemia Cell Differentiation Protein Mcl-1,ENSG00000143384,Q07820,0.118696,0.144299,1,By_ingredient,0.3378
+SMTT02065,MCM6,2,Minichromosome Maintenance Complex Component 6,None,ENSG00000076003,None,0.00243231,0.0261241,1,By_ingredient,0.4106
+SMTT02070,MDM2,12,MDM2 Proto-oncogene,E3 Ubiquitin-protein Ligase Mdm2,ENSG00000135679,Q00987,0.0730022,0.0969123,1,By_ingredient,0.1518
+SMTT02071,ME1,None,malic enzyme 1,NADP-dependent Malic Enzyme,ENSG00000065833,P48163,0.00148771,0.0199519,1,By_ingredient,0.7677
+SMTT02088,MET,7,"MET Proto-oncogene, Receptor Tyrosine Kinase",Hepatocyte Growth Factor Receptor,ENSG00000105976,P08581,0.0846423,0.108995,1,By_ingredient,0.1513
+SMTT02095,MGAM,None,maltase-glucoamylase,"Maltase-glucoamylase, Intestinal",ENSG00000257335,O43451,7.46E-06,0.000226959,0.659315,By_ingredient,0.8255
+SMTT02101,MGST1,None,microsomal glutathione S-transferase 1,Microsomal Glutathione S-transferase 1,ENSG00000008394,P10620,9.41E-06,0.000551561,1,By_ingredient,0.793
+SMTT02102,MIB1,18,Mindbomb E3 Ubiquitin Protein Ligase 1,None,ENSG00000101752,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9539
+SMTT02118,MLC1,22,Megalencephalic Leukoencephalopathy With Subcortical Cysts 1,None,ENSG00000100427,None,0.000357738,0.00792072,1,By_ingredient,0.4512
+SMTT02132,MMP1,11,Matrix Metallopeptidase 1,Interstitial Collagenase,ENSG00000196611,P03956,0.0215221,0.0635209,1,By_ingredient,0.5197
+SMTT02137,MMP2,16,Matrix Metallopeptidase 2,72 KDa Type IV Collagenase,ENSG00000087245,P08253,0.0021104,0.0242581,1,By_ingredient,0.8786
+SMTT02140,MMP3,None,matrix metallopeptidase 3,Stromelysin-1,ENSG00000149968,P08254,0.00560074,0.0381282,1,By_ingredient,0.5223
+SMTT02142,MMP8,None,matrix metallopeptidase 8,Neutrophil Collagenase,ENSG00000118113,P22894,0.270944,0.300264,1,By_ingredient,0.1746
+SMTT02143,MMP9,20,Matrix Metallopeptidase 9,Matrix Metalloproteinase-9,ENSG00000100985,P14780,0.0085622,0.0447897,1,By_ingredient,0.8846
+SMTT02157,MPO,17,Myeloperoxidase,Myeloperoxidase,ENSG00000005381,P05164,0.000100221,0.00146063,1,By_ingredient,0.5072
+SMTT02181,MT2A,None,metallothionein 2A,Metallothionein-2,ENSG00000125148,P02795,0.000354369,0.00788613,1,By_ingredient,0.7088
+SMTT02187,MTNR1B,None,melatonin receptor 1B,Melatonin Receptor Type 1B,ENSG00000134640,P49286,0.000156944,0.00198954,1,By_ingredient,0.5842
+SMTT02189,MTOR,1,Mechanistic Target Of Rapamycin Kinase,Serine/threonine-protein Kinase MTOR,ENSG00000198793,P42345,0.0175573,0.0584887,1,By_ingredient,0.5016
+SMTT02192,MTRR,5,5-methyltetrahydrofolate-homocysteine Methyltransferase Reductase,Methionine Synthase Reductase,ENSG00000124275,Q9UBK8,0.0464348,0.0878374,1,By_ingredient,0.5735
+SMTT02193,MTTP,4,Microsomal Triglyceride Transfer Protein,Microsomal Triglyceride Transfer Protein Large Subunit,ENSG00000138823,P55157,0.0492779,0.0716808,1,By_ingredient,0.2083
+SMTT02194,MUC1,1,"Mucin 1, Cell Surface Associated",None,ENSG00000185499,None,0.0249489,0.0450476,1,By_ingredient,0.176
+SMTT02203,MYC,8,"MYC Proto-oncogene, BHLH Transcription Factor",Myc Proto-oncogene Protein,ENSG00000136997,P01106,0.00039857,0.00859134,1,By_ingredient,1.0558
+SMTT02239,NALCN,13,"Sodium Leak Channel, Non-selective",None,ENSG00000102452,None,0.0325776,0.0745352,1,By_ingredient,0.1887
+SMTT02240,NAMPT,None,nicotinamide phosphoribosyltransferase,Nicotinamide Phosphoribosyltransferase,ENSG00000105835,P43490,0.00026771,0.00654292,1,By_ingredient,0.5263
+SMTT02251,NCOA1,None,nuclear receptor coactivator 1,Nuclear Receptor Coactivator 1,ENSG00000084676,Q15788,0.966291,0.972143,1,By_ingredient,0.3379
+SMTT02266,NDUFA1,X,NADH:ubiquinone Oxidoreductase Subunit A1,NADH Dehydrogenase [ubiquinone] 1 Alpha Subcomplex Subunit 1,ENSG00000125356,O15239,0.000120119,0.00375531,1,By_ingredient,0.3925
+SMTT02270,NDUFA2,5,NADH:ubiquinone Oxidoreductase Subunit A2,NADH Dehydrogenase [ubiquinone] 1 Alpha Subcomplex Subunit 2,ENSG00000131495,O43678,0.000357738,0.00792072,1,By_ingredient,0.3584
+SMTT02279,NDUFB3,2,NADH:ubiquinone Oxidoreductase Subunit B3,NADH Dehydrogenase [ubiquinone] 1 Beta Subcomplex Subunit 3,ENSG00000119013,O43676,0.000120119,0.00375531,1,By_ingredient,0.4028
+SMTT02281,NDUFS1,2,NADH:ubiquinone Oxidoreductase Core Subunit S1,"NADH-ubiquinone Oxidoreductase 75 KDa Subunit, Mitochondrial",ENSG00000023228,P28331,0.0492779,0.0716808,1,By_ingredient,0.1716
+SMTT02287,NDUFS8,11,NADH:ubiquinone Oxidoreductase Core Subunit S8,"NADH Dehydrogenase [ubiquinone] Iron-sulfur Protein 8, Mitochondrial",ENSG00000110717,O00217,0.0325776,0.0745352,1,By_ingredient,0.1901
+SMTT02312,NFKB1,4,Nuclear Factor Kappa B Subunit 1,Nuclear Factor NF-kappa-B P105 Subunit,ENSG00000109320,P19838,2.28E-05,0.00110777,1,By_ingredient,1.4709
+SMTT02313,NFKB2,10,Nuclear Factor Kappa B Subunit 2,Nuclear Factor NF-kappa-B P100 Subunit,ENSG00000077150,Q00653,2.71E-06,0.000208807,1,By_ingredient,0.9715
+SMTT02314,NFKBIA,14,NFKB Inhibitor Alpha,NF-kappa-B Inhibitor Alpha,ENSG00000100906,P25963,3.08E-06,0.000230341,1,By_ingredient,1.4639
+SMTT02316,NGF,1,Nerve Growth Factor,Beta-nerve Growth Factor,ENSG00000134259,P01138,0.0130225,0.051746,1,By_ingredient,0.4149
+SMTT02336,NME1,17,NME/NM23 Nucleoside Diphosphate Kinase 1,Nucleoside Diphosphate Kinase A,ENSG00000239672,P15531,0.00618817,0.0394319,1,By_ingredient,0.4081
+SMTT02349,NOS2,None,nitric oxide synthase 2,"Nitric Oxide Synthase, Inducible",ENSG00000007171,P35228,7.65E-05,0.00269695,1,By_ingredient,8.1617
+SMTT02350,NOS3,None,nitric oxide synthase 3,"Nitric Oxide Synthase, Endothelial",ENSG00000164867,P29474,0.016826,0.057704,1,By_ingredient,0.8332
+SMTT02351,NOTCH1,9,Notch 1,None,ENSG00000148400,None,8.39E-06,0.000503439,1,By_ingredient,1.0251
+SMTT02352,NOTCH2,1,Notch 2,None,ENSG00000134250,None,6.09E-07,6.03E-05,0.251985,By_ingredient,1.0919
+SMTT02353,NOTCH3,19,Notch 3,None,ENSG00000074181,None,5.66E-08,8.26E-06,0.0234058,By_ingredient,1.2352
+SMTT02366,NPSR1,None,neuropeptide S receptor 1,Neuropeptide S Receptor,ENSG00000187258,Q6W5P4,0.0116908,0.0501417,1,By_ingredient,0.4915
+SMTT02368,NQO1,None,NAD(P)H quinone dehydrogenase 1,NAD(P)H Dehydrogenase [quinone] 1,ENSG00000181019,P15559,0.000342085,0.00772238,1,By_ingredient,0.9222
+SMTT02369,NQO2,None,N-ribosyldihydronicotinamide:quinone reductase 2,Ribosyldihydronicotinamide Dehydrogenase [quinone],ENSG00000124588,P16083,0.357585,0.388907,1,By_ingredient,0.1739
+SMTT02373,NR1H4,None,nuclear receptor subfamily 1 group H member 4,Bile Acid Receptor,ENSG00000012504,Q96RI1,0.0249489,0.0450476,1,By_ingredient,0.1982
+SMTT02379,NR3C1,5,Nuclear Receptor Subfamily 3 Group C Member 1,Glucocorticoid Receptor,ENSG00000113580,P04150,0.473515,0.50581,1,By_ingredient,3.0611
+SMTT02380,NR3C2,4,Nuclear Receptor Subfamily 3 Group C Member 2,Mineralocorticoid Receptor,ENSG00000151623,P08235,0.770443,0.793213,1,By_ingredient,0.7823
+SMTT02382,NR4A3,9,Nuclear Receptor Subfamily 4 Group A Member 3,Nuclear Receptor Subfamily 4 Group A Member 3,ENSG00000119508,Q92570,0.0218377,0.0636904,1,By_ingredient,0.2197
+SMTT02402,NTRK2,9,Neurotrophic Receptor Tyrosine Kinase 2,BDNF/NT-3 Growth Factors Receptor,ENSG00000148053,Q16620,0.00026771,0.00654292,1,By_ingredient,0.5636
+SMTT02417,ODC1,None,ornithine decarboxylase 1,Ornithine Decarboxylase,ENSG00000115758,P11926,0.183065,0.210165,1,By_ingredient,0.171
+SMTT02425,OPN1LW,X,"Opsin 1, Long Wave Sensitive",None,ENSG00000102076,None,0.00661134,0.0403439,1,By_ingredient,0.5076
+SMTT02427,OPN1SW,7,"Opsin 1, Short Wave Sensitive",None,ENSG00000128617,None,0.00661134,0.0403439,1,By_ingredient,0.4687
+SMTT02428,OPRD1,None,opioid receptor delta 1,Delta-type Opioid Receptor,ENSG00000116329,P41143,0.95835,0.965176,1,By_ingredient,1.147
+SMTT02429,OPRK1,None,opioid receptor kappa 1,Kappa-type Opioid Receptor,ENSG00000082556,P41145,0.0042828,0.0342023,1,By_ingredient,0.6326
+SMTT02430,OPRM1,None,opioid receptor mu 1,Mu-type Opioid Receptor,ENSG00000112038,P35372,0.91545,0.927062,1,By_ingredient,1.1522
+SMTT02447,OXT,None,oxytocin/neurophysin I prepropeptide,Oxytocin-neurophysin 1,ENSG00000101405,P01178,0.0240104,0.0656908,1,By_ingredient,0.3658
+SMTT02448,OXTR,None,oxytocin receptor,Oxytocin Receptor,ENSG00000180914,P30559,0.0140392,0.053565,1,By_ingredient,0.4779
+SMTT02464,PAM,None,peptidylglycine alpha-amidating monooxygenase,Peptidyl-glycine Alpha-amidating Monooxygenase,ENSG00000145730,P19021,0.0125529,0.0300666,1,By_ingredient,0.1426
+SMTT02471,PARP1,None,poly(ADP-ribose) polymerase 1,Poly [ADP-ribose] Polymerase 1,ENSG00000143799,P09874,0.000287274,0.00686367,1,By_ingredient,0.9212
+SMTT02482,PCCA,13,Propionyl-CoA Carboxylase Alpha Subunit,"Propionyl-CoA Carboxylase Alpha Chain, Mitochondrial",ENSG00000175198,P05165,0.0325776,0.0745352,1,By_ingredient,0.1691
+SMTT02490,PCNA,20,Proliferating Cell Nuclear Antigen,Proliferating Cell Nuclear Antigen,ENSG00000132646,P12004,0.00772357,0.0434183,1,By_ingredient,0.5499
+SMTT02494,PCSK9,1,Proprotein Convertase Subtilisin/kexin Type 9,Proprotein Convertase Subtilisin/kexin Type 9,ENSG00000169174,Q8NBP7,0.0125529,0.0300666,1,By_ingredient,None
+SMTT02495,PCYT1A,3,"Phosphate Cytidylyltransferase 1, Choline, Alpha",Choline-phosphate Cytidylyltransferase A,ENSG00000161217,P49585,0.0125529,0.0300666,1,By_ingredient,0.1719
+SMTT02499,PDE3A,12,Phosphodiesterase 3A,"CGMP-inhibited 3',5'-cyclic Phosphodiesterase A",ENSG00000172572,Q14432,0.00629236,0.0395886,1,By_ingredient,1.8309
+SMTT02519,PDX1,13,Pancreatic And Duodenal Homeobox 1,None,ENSG00000139515,None,0.0125529,0.0300666,1,By_ingredient,0.1586
+SMTT02520,PDYN,20,Prodynorphin,None,ENSG00000101327,None,0.00150429,0.0200442,1,By_ingredient,0.541
+SMTT02539,PFKFB4,None,"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4","6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 4",ENSG00000114268,Q16877,0.0371899,0.0588313,1,By_ingredient,0.1756
+SMTT02540,PFKM,12,"Phosphofructokinase, Muscle",None,ENSG00000152556,None,0.0249489,0.0450476,1,By_ingredient,0.1699
+SMTT02546,PGD,None,phosphogluconate dehydrogenase,"6-phosphogluconate Dehydrogenase, Decarboxylating",ENSG00000142657,P52209,7.35E-05,0.00261817,1,By_ingredient,0.7367
+SMTT02548,PGK1,X,Phosphoglycerate Kinase 1,Phosphoglycerate Kinase 1,ENSG00000102144,P00558,0.00618817,0.0394319,1,By_ingredient,0.3933
+SMTT02550,PGR,11,Progesterone Receptor,Progesterone Receptor,ENSG00000082175,P06401,0.0321008,0.0627955,1,By_ingredient,1.8093
+SMTT02594,PKLR,1,Pyruvate Kinase L/R,Pyruvate Kinase PKLR,ENSG00000143627,P30613,0.172672,0.199487,1,By_ingredient,0.1801
+SMTT02597,PLA2G2A,None,phospholipase A2 group IIA,"Phospholipase A2, Membrane Associated",ENSG00000188257,P14555,0.0961369,0.120918,1,By_ingredient,0.1672
+SMTT02599,PLA2G6,22,Phospholipase A2 Group VI,85/88 KDa Calcium-independent Phospholipase A2,ENSG00000184381,O60733,2.71E-06,0.000208807,1,By_ingredient,1.0587
+SMTT02604,PLAU,10,"Plasminogen Activator, Urokinase",Urokinase-type Plasminogen Activator,ENSG00000122861,P00749,0.00677647,0.022099,1,By_ingredient,0.4233
+SMTT02615,PLG,6,Plasminogen,Plasminogen,ENSG00000122194,P00747,0.0492779,0.0716808,1,By_ingredient,0.294
+SMTT02616,PLIN1,15,Perilipin 1,None,ENSG00000166819,None,0.0109789,0.0495377,1,By_ingredient,0.2237
+SMTT02636,PNP,14,Purine Nucleoside Phosphorylase,Purine Nucleoside Phosphorylase,ENSG00000198805,P00491,0.183065,0.210165,1,By_ingredient,0.1615
+SMTT02655,POLH,6,DNA Polymerase Eta,None,ENSG00000170734,None,0.00071028,0.0126907,1,By_ingredient,0.4228
+SMTT02661,POMC,2,Proopiomelanocortin,Pro-opiomelanocortin,ENSG00000115138,P01189,0.00772357,0.0434183,1,By_ingredient,0.5716
+SMTT02668,PON1,7,Paraoxonase 1,Serum Paraoxonase/arylesterase 1,ENSG00000005421,P27169,0.000155222,0.00197702,1,By_ingredient,0.463
+SMTT02671,POR,7,Cytochrome P450 Oxidoreductase,NADPH--cytochrome P450 Reductase,ENSG00000127948,P16435,0.0161511,0.0568395,1,By_ingredient,0.7139
+SMTT02679,PPARA,None,peroxisome proliferator activated receptor alpha,Peroxisome Proliferator-activated Receptor Alpha,ENSG00000186951,Q07869,2.20E-05,0.000497915,1,By_ingredient,1.198
+SMTT02680,PPARD,None,peroxisome proliferator activated receptor delta,Peroxisome Proliferator-activated Receptor Delta,ENSG00000112033,Q03181,0.0249489,0.0450476,1,By_ingredient,0.1553
+SMTT02681,PPARG,3,Peroxisome Proliferator Activated Receptor Gamma,Peroxisome Proliferator-activated Receptor Gamma,ENSG00000132170,P37231,0.0542341,0.077117,1,By_ingredient,3.48
+SMTT02683,PPBP,None,pro-platelet basic protein,Platelet Basic Protein,ENSG00000163736,P02775,0.00251849,0.0266184,1,By_ingredient,0.5523
+SMTT02688,PPOX,1,Protoporphyrinogen Oxidase,None,ENSG00000143224,None,0.0218377,0.0636904,1,By_ingredient,0.1497
+SMTT02696,PPP3CA,None,protein phosphatase 3 catalytic subunit alpha,Serine/threonine-protein Phosphatase 2B Catalytic Subunit Alpha Isoform,ENSG00000138814,Q08209,0.0371899,0.0588313,1,By_ingredient,0.1852
+SMTT02706,PRDX5,None,peroxiredoxin 5,"Peroxiredoxin-5, Mitochondrial",ENSG00000126432,P30044,0.0125529,0.0300666,1,By_ingredient,0.1794
+SMTT02717,PRKCA,None,protein kinase C alpha,Protein Kinase C Alpha Type,ENSG00000154229,P17252,3.30E-05,0.00145859,1,By_ingredient,1.0256
+SMTT02718,PRKCB,None,protein kinase C beta,Protein Kinase C Beta Type,ENSG00000166501,P05771,0.0478979,0.0702774,1,By_ingredient,0.5172
+SMTT02721,PRKCG,19,Protein Kinase C Gamma,Protein Kinase C Gamma Type,ENSG00000126583,P05129,0.0371899,0.0588313,1,By_ingredient,0.1822
+SMTT02723,PRKCZ,None,protein kinase C zeta,Protein Kinase C Zeta Type,ENSG00000067606,Q05513,0.0125529,0.0300666,1,By_ingredient,0.1881
+SMTT02727,PRKRA,2,Protein Activator Of Interferon Induced Protein Kinase EIF2AK2,None,ENSG00000180228,None,0.000357738,0.00792072,1,By_ingredient,0.3964
+SMTT02731,PRODH,22,Proline Dehydrogenase 1,"Proline Dehydrogenase 1, Mitochondrial",ENSG00000100033,O43272,0.0125529,0.0300666,1,By_ingredient,0.1637
+SMTT02733,PROKR2,20,Prokineticin Receptor 2,None,ENSG00000101292,None,0.0102615,0.0477541,1,By_ingredient,0.4708
+SMTT02744,PRPS1,X,Phosphoribosyl Pyrophosphate Synthetase 1,None,ENSG00000147224,None,0.00071028,0.0126907,1,By_ingredient,0.4013
+SMTT02747,PRSS1,7,Serine Protease 1,Trypsin-1,ENSG00000204983,P07477,2.52E-44,3.54E-40,1.06E-38,By_ingredient,22.0665
+SMTT02748,PRSS12,4,Serine Protease 12,None,ENSG00000164099,None,0.0448783,0.0864877,1,By_ingredient,0.5203
+SMTT02769,PTEN,10,Phosphatase And Tensin Homolog,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase And Dual-specificity Protein Phosphatase PTEN",ENSG00000171862,P60484,0.0961369,0.120918,1,By_ingredient,0.1463
+SMTT02771,PTGER2,None,prostaglandin E receptor 2,Prostaglandin E2 Receptor EP2 Subtype,ENSG00000125384,P43116,0.0148771,0.0551503,1,By_ingredient,0.4959
+SMTT02772,PTGER3,None,prostaglandin E receptor 3,Prostaglandin E2 Receptor EP3 Subtype,ENSG00000050628,P43115,3.40E-05,0.00149328,1,By_ingredient,0.9465
+SMTT02773,PTGFR,None,prostaglandin F receptor,Prostaglandin F2-alpha Receptor,ENSG00000122420,P43088,0.0140392,0.053565,1,By_ingredient,0.4659
+SMTT02774,PTGIR,None,prostaglandin I2 receptor,Prostacyclin Receptor,ENSG00000160013,P43119,0.00893965,0.0454633,1,By_ingredient,0.4797
+SMTT02776,PTGS1,None,prostaglandin-endoperoxide synthase 1,Prostaglandin G/H Synthase 1,ENSG00000095303,P23219,1.70E-18,1.76E-15,7.01E-13,By_ingredient,11.1343
+SMTT02777,PTGS2,None,prostaglandin-endoperoxide synthase 2,Prostaglandin G/H Synthase 2,ENSG00000073756,P35354,9.63E-26,2.28E-22,3.98E-20,By_ingredient,18.0242
+SMTT02803,PYGL,14,Glycogen Phosphorylase L,"Glycogen Phosphorylase, Liver Form",ENSG00000100504,P06737,0.0961369,0.120918,1,By_ingredient,0.153
+SMTT02816,RAC1,None,Rac family small GTPase 1,Ras-related C3 Botulinum Toxin Substrate 1,ENSG00000136238,P63000,0.0371899,0.0588313,1,By_ingredient,None
+SMTT02824,RAF1,3,"Raf-1 Proto-oncogene, Serine/threonine Kinase",RAF Proto-oncogene Serine/threonine-protein Kinase,ENSG00000132155,P04049,0.0846423,0.108995,1,By_ingredient,0.3584
+SMTT02842,RB1,13,RB Transcriptional Corepressor 1,Retinoblastoma-associated Protein,ENSG00000139687,P06400,0.00315149,0.0261823,1,By_ingredient,0.4679
+SMTT02856,RDH11,14,Retinol Dehydrogenase 11,Retinol Dehydrogenase 11,ENSG00000072042,Q8TC12,0.000945671,0.0150718,1,By_ingredient,0.5073
+SMTT02865,RELA,None,"RELA proto-oncogene, NF-kB subunit",Transcription Factor P65,ENSG00000173039,Q04206,0.00317833,0.0152217,1,By_ingredient,0.921
+SMTT02867,REN,1,Renin,Renin,ENSG00000143839,P00797,0.0371899,0.0588313,1,By_ingredient,0.1677
+SMTT02878,RFXANK,19,Regulatory Factor X Associated Ankyrin Containing Protein,None,ENSG00000064490,None,4.23E-07,4.45E-05,0.174808,By_ingredient,1.0031
+SMTT02881,RGR,10,Retinal G Protein Coupled Receptor,None,ENSG00000148604,None,0.00661134,0.0403439,1,By_ingredient,0.4942
+SMTT02886,RHO,3,Rhodopsin,Rhodopsin,ENSG00000163914,P08100,0.000179244,0.00497054,1,By_ingredient,0.8653
+SMTT02890,RIPK4,21,Receptor Interacting Serine/threonine Kinase 4,None,ENSG00000183421,None,2.43E-05,0.00116736,1,By_ingredient,0.9803
+SMTT02903,RNASEL,1,Ribonuclease L,None,ENSG00000135828,None,2.09E-06,0.000168016,0.862763,By_ingredient,0.9824
+SMTT02969,RXRA,None,retinoid X receptor alpha,Retinoic Acid Receptor RXR-alpha,ENSG00000186350,P19793,1.62E-14,9.81E-12,6.68E-09,By_ingredient,6.3168
+SMTT02971,RYR1,19,Ryanodine Receptor 1,Ryanodine Receptor 1,ENSG00000196218,P21817,0.00071028,0.0126907,1,By_ingredient,0.4265
+SMTT02987,SAT1,X,Spermidine/spermine N1-acetyltransferase 1,Diamine Acetyltransferase 1,ENSG00000130066,P21673,0.0114772,0.0500184,1,By_ingredient,0.37
+SMTT02997,SCN11A,3,Sodium Voltage-gated Channel Alpha Subunit 11,Sodium Channel Protein Type 11 Subunit Alpha,ENSG00000168356,Q9UI33,0.0218377,0.0636904,1,By_ingredient,0.2075
+SMTT03005,SCN5A,3,Sodium Voltage-gated Channel Alpha Subunit 5,Sodium Channel Protein Type 5 Subunit Alpha,ENSG00000183873,Q14524,0.385128,0.416633,1,By_ingredient,2.8808
+SMTT03006,SCN8A,12,Sodium Voltage-gated Channel Alpha Subunit 8,Sodium Channel Protein Type 8 Subunit Alpha,ENSG00000196876,Q9UQD0,0.0218377,0.0636904,1,By_ingredient,0.2274
+SMTT03007,SCN9A,2,Sodium Voltage-gated Channel Alpha Subunit 9,Sodium Channel Protein Type 9 Subunit Alpha,ENSG00000169432,Q15858,0.0432001,0.0847847,1,By_ingredient,0.2001
+SMTT03030,SELP,None,selectin P,P-selectin,ENSG00000174175,P16109,0.140695,0.166626,1,By_ingredient,0.1763
+SMTT03048,SERPINE1,7,Serpin Family E Member 1,Plasminogen Activator Inhibitor 1,ENSG00000106366,P05121,0.00333786,0.031071,1,By_ingredient,0.7143
+SMTT03067,SGCD,5,Sarcoglycan Delta,None,ENSG00000170624,None,0.0218377,0.0636904,1,By_ingredient,0.23
+SMTT03085,SI,3,Sucrase-isomaltase,"Sucrase-isomaltase, Intestinal",ENSG00000090402,P14410,7.74E-06,0.000232674,0.684061,By_ingredient,0.3652
+SMTT03101,SLC11A2,12,Solute Carrier Family 11 Member 2,None,ENSG00000110911,None,0.0249489,0.0450476,1,By_ingredient,0.2031
+SMTT03108,SLC16A1,1,Solute Carrier Family 16 Member 1,Monocarboxylate Transporter 1,ENSG00000155380,P53985,0.00410957,0.0334136,1,By_ingredient,0.4182
+SMTT03112,SLC17A5,6,Solute Carrier Family 17 Member 5,None,ENSG00000119899,None,0.0125529,0.0300666,1,By_ingredient,0.1828
+SMTT03127,SLC22A5,5,Solute Carrier Family 22 Member 5,Solute Carrier Family 22 Member 5,ENSG00000197375,O76082,0.0125529,0.0300666,1,By_ingredient,0.1503
+SMTT03128,SLC23A1,None,solute carrier family 23 member 1,Solute Carrier Family 23 Member 1,ENSG00000170482,Q9UHI7,0.0125529,0.0300666,1,By_ingredient,0.2124
+SMTT03135,SLC25A15,13,Solute Carrier Family 25 Member 15,Mitochondrial Ornithine Transporter 1,ENSG00000102743,Q9Y619,0.0325776,0.0745352,1,By_ingredient,0.1723
+SMTT03153,SLC2A1,1,Solute Carrier Family 2 Member 1,"Solute Carrier Family 2, Facilitated Glucose Transporter Member 1",ENSG00000117394,P11166,0.0371899,0.0588313,1,By_ingredient,None
+SMTT03155,SLC2A2,3,Solute Carrier Family 2 Member 2,"Solute Carrier Family 2, Facilitated Glucose Transporter Member 2",ENSG00000163581,P11168,0.0125529,0.0300666,1,By_ingredient,0.1473
+SMTT03193,SLC6A2,16,Solute Carrier Family 6 Member 2,Sodium-dependent Noradrenaline Transporter,ENSG00000103546,P23975,0,0,1.40E-45,By_ingredient,11.3357
+SMTT03195,SLC6A3,5,Solute Carrier Family 6 Member 3,Sodium-dependent Dopamine Transporter,ENSG00000142319,Q01959,1.10E-21,1.75E-18,4.56E-16,By_ingredient,6.3944
+SMTT03196,SLC6A4,None,solute carrier family 6 member 4,Sodium-dependent Serotonin Transporter,ENSG00000108576,P31645,1.37E-06,0.000118415,0.565997,By_ingredient,3.0698
+SMTT03240,SNCAIP,5,Synuclein Alpha Interacting Protein,None,ENSG00000064692,None,6.09E-07,6.03E-05,0.251985,By_ingredient,0.9354
+SMTT03253,SOAT1,None,sterol O-acyltransferase 1,Sterol O-acyltransferase 1,ENSG00000057252,P35610,0.0371899,0.0588313,1,By_ingredient,0.161
+SMTT03256,SOD1,21,Superoxide Dismutase 1,Superoxide Dismutase [Cu-Zn],ENSG00000142168,P00441,0.00142044,0.0193784,1,By_ingredient,0.8325
+SMTT03257,SOD2,None,superoxide dismutase 2,"Superoxide Dismutase [Mn], Mitochondrial",ENSG00000112096,P04179,0.000864693,0.0144565,1,By_ingredient,0.7214
+SMTT03287,SPINT2,19,"Serine Peptidase Inhibitor, Kunitz Type 2",None,ENSG00000167642,None,0.000120119,0.00375531,1,By_ingredient,0.3884
+SMTT03297,SPTLC2,14,Serine Palmitoyltransferase Long Chain Base Subunit 2,Serine Palmitoyltransferase 2,ENSG00000100596,O15270,0.00071028,0.0126907,1,By_ingredient,0.4048
+SMTT03298,SQSTM1,5,Sequestosome 1,None,ENSG00000161011,None,0.000106858,0.0034422,1,By_ingredient,0.8001
+SMTT03319,STAT3,17,Signal Transducer And Activator Of Transcription 3,Signal Transducer And Activator Of Transcription 3,ENSG00000168610,P40763,0.00939667,0.0464702,1,By_ingredient,0.6933
+SMTT03320,STAT4,2,Signal Transducer And Activator Of Transcription 4,None,ENSG00000138378,None,0.0432001,0.0847847,1,By_ingredient,0.1773
+SMTT03321,STAT5B,17,Signal Transducer And Activator Of Transcription 5B,Signal Transducer And Activator Of Transcription 5B,ENSG00000173757,P51692,0.00410957,0.0334136,1,By_ingredient,0.415
+SMTT03344,SUFU,10,SUFU Negative Regulator Of Hedgehog Signaling,None,ENSG00000107882,None,0.0432001,0.0847847,1,By_ingredient,0.2456
+SMTT03380,TAP2,6,"Transporter 2, ATP Binding Cassette Subfamily B Member",None,ENSG00000204267,None,0.00509985,0.0364165,1,By_ingredient,0.394
+SMTT03402,TBX21,17,T-box 21,None,ENSG00000073861,None,0.0325776,0.0745352,1,By_ingredient,0.211
+SMTT03408,TBXA2R,None,thromboxane A2 receptor,Thromboxane A2 Receptor,ENSG00000006638,P21731,0.0124462,0.0511738,1,By_ingredient,0.4843
+SMTT03443,TFRC,3,Transferrin Receptor,Transferrin Receptor Protein 1,ENSG00000072274,P02786,0.0282799,0.0705716,1,By_ingredient,0.3718
+SMTT03446,TGFA,2,Transforming Growth Factor Alpha,None,ENSG00000163235,None,0.0371899,0.0588313,1,By_ingredient,0.2151
+SMTT03447,TGFB1,19,Transforming Growth Factor Beta 1,Transforming Growth Factor Beta-1,ENSG00000105329,P01137,0.00897127,0.0454927,1,By_ingredient,0.7008
+SMTT03448,TGFB2,1,Transforming Growth Factor Beta 2,None,ENSG00000092969,None,0.0612147,0.0844548,1,By_ingredient,0.1859
+SMTT03449,TGFB3,14,Transforming Growth Factor Beta 3,Transforming Growth Factor Beta-3,ENSG00000119699,P10600,0.0371899,0.0588313,1,By_ingredient,0.1801
+SMTT03459,TH,11,Tyrosine Hydroxylase,Tyrosine 3-monooxygenase,ENSG00000180176,P07101,0.0129296,0.030654,1,By_ingredient,0.4056
+SMTT03466,THRB,3,Thyroid Hormone Receptor Beta,Thyroid Hormone Receptor Beta,ENSG00000151090,P10828,0.0130225,0.051746,1,By_ingredient,0.3995
+SMTT03474,TLR2,None,toll like receptor 2,Toll-like Receptor 2,ENSG00000137462,O60603,0.0371899,0.0588313,1,By_ingredient,0.1678
+SMTT03475,TLR4,9,Toll Like Receptor 4,Toll-like Receptor 4,ENSG00000136869,O00206,0.00227707,0.0127394,1,By_ingredient,0.4901
+SMTT03481,TMEM106B,7,Transmembrane Protein 106B,None,ENSG00000106460,None,0.000357738,0.00792072,1,By_ingredient,0.3874
+SMTT03502,TNF,None,tumor necrosis factor,Tumor Necrosis Factor,ENSG00000232810,P01375,0.003188,0.0183345,1,By_ingredient,1.4738
+SMTT03503,TNFAIP3,6,TNF Alpha Induced Protein 3,None,ENSG00000118503,None,0.0181608,0.0589026,1,By_ingredient,0.3647
+SMTT03521,TNNT2,1,"Troponin T2, Cardiac Type",None,ENSG00000118194,None,0.0432001,0.0847847,1,By_ingredient,0.251
+SMTT03526,TOP1,None,DNA topoisomerase I,DNA Topoisomerase 1,ENSG00000198900,P11387,0.0961369,0.120918,1,By_ingredient,0.1459
+SMTT03527,TOP2A,17,DNA Topoisomerase II Alpha,DNA Topoisomerase 2-alpha,ENSG00000131747,P11388,0.000272144,0.00660002,1,By_ingredient,0.7331
+SMTT03530,TP53,17,Tumor Protein P53,Cellular Tumor Antigen P53,ENSG00000141510,P04637,0.0248412,0.0449614,1,By_ingredient,0.7924
+SMTT03532,TPI1,12,Triosephosphate Isomerase 1,Triosephosphate Isomerase,ENSG00000111669,P60174,0.0480178,0.0890106,1,By_ingredient,0.4744
+SMTT03549,TREH,11,Trehalase,None,ENSG00000118094,None,0.0125529,0.0300666,1,By_ingredient,0.1605
+SMTT03550,TREM2,6,Triggering Receptor Expressed On Myeloid Cells 2,None,ENSG00000095970,None,0.0325776,0.0745352,1,By_ingredient,0.2129
+SMTT03553,TRHR,8,Thyrotropin Releasing Hormone Receptor,Thyrotropin-releasing Hormone Receptor,ENSG00000174417,P34981,0.0102615,0.0477541,1,By_ingredient,0.4657
+SMTT03579,TRNT1,3,tRNA Nucleotidyl Transferase 1,None,ENSG00000072756,None,5.20E-06,0.000347447,1,By_ingredient,0.6305
+SMTT03582,TRPA1,8,Transient Receptor Potential Cation Channel Subfamily A Member 1,Transient Receptor Potential Cation Channel Subfamily A Member 1,ENSG00000104321,O75762,3.48E-08,5.43E-06,0.0143871,By_ingredient,1.5421
+SMTT03583,TRPC3,4,Transient Receptor Potential Cation Channel Subfamily C Member 3,None,ENSG00000138741,None,0.0125529,0.0300666,1,By_ingredient,0.1764
+SMTT03590,TRPV1,None,transient receptor potential cation channel subfamily V member 1,Transient Receptor Potential Cation Channel Subfamily V Member 1,ENSG00000196689,Q8NER1,6.38E-07,6.26E-05,0.263982,By_ingredient,1.1793
+SMTT03591,TRPV3,17,Transient Receptor Potential Cation Channel Subfamily V Member 3,Transient Receptor Potential Cation Channel Subfamily V Member 3,ENSG00000167723,Q8NET8,0.000540317,0.010505,1,By_ingredient,0.5844
+SMTT03592,TRPV4,12,Transient Receptor Potential Cation Channel Subfamily V Member 4,Transient Receptor Potential Cation Channel Subfamily V Member 4,ENSG00000111199,Q9HBA0,0.00737226,0.0300666,1,By_ingredient,0.4174
+SMTT03603,TSPAN12,7,Tetraspanin 12,None,ENSG00000106025,None,0.0325776,0.0745352,1,By_ingredient,0.2184
+SMTT03619,TTN,2,Titin,None,ENSG00000155657,None,0.0432001,0.0847847,1,By_ingredient,0.2293
+SMTT03642,TXN2,22,Thioredoxin 2,None,ENSG00000100348,None,0.0003452,0.00774661,1,By_ingredient,0.634
+SMTT03644,TXNRD1,None,thioredoxin reductase 1,"Thioredoxin Reductase 1, Cytoplasmic",ENSG00000198431,Q16881,1.03E-06,9.42E-05,0.427809,By_ingredient,1.2737
+SMTT03645,TXNRD2,22,Thioredoxin Reductase 2,"Thioredoxin Reductase 2, Mitochondrial",ENSG00000184470,Q9NNW7,0.000148423,0.00436063,1,By_ingredient,0.6317
+SMTT03648,TYR,11,Tyrosinase,Tyrosinase,ENSG00000077498,P14679,0.0157426,0.0562622,1,By_ingredient,0.5283
+SMTT03661,UCHL1,4,Ubiquitin C-terminal Hydrolase L1,Ubiquitin Carboxyl-terminal Hydrolase Isozyme L1,ENSG00000154277,P09936,0.0125529,0.0300666,1,By_ingredient,0.176
+SMTT03662,UCP2,11,Uncoupling Protein 2,None,ENSG00000175567,None,0.0492779,0.0716808,1,By_ingredient,0.1413
+SMTT03708,VEGFA,None,vascular endothelial growth factor A,Vascular Endothelial Growth Factor A,ENSG00000112715,P15692,0.00283636,0.0285298,1,By_ingredient,1.0498
+SMTT03745,WEE1,None,WEE1 G2 checkpoint kinase,Wee1-like Protein Kinase,ENSG00000166483,P30291,2.56E-05,0.00120509,1,By_ingredient,0.5845
+SMTT03764,XDH,2,Xanthine Dehydrogenase,Xanthine Dehydrogenase/oxidase,ENSG00000158125,P47989,0.0177268,0.0365791,1,By_ingredient,0.4979
+SMTT03765,XIAP,X,X-linked Inhibitor Of Apoptosis,E3 Ubiquitin-protein Ligase XIAP,ENSG00000101966,P98170,0.0071546,0.0417534,1,By_ingredient,0.5008
+SMTT03843,AQP4,18,Aquaporin 4,None,ENSG00000171885,P55087,0.0125529,0.0300666,1,By_ingredient,0.1611
+SMTT03844,CCK,3,Cholecystokinin,None,ENSG00000187094,P06307,0.0371899,0.0588313,1,By_ingredient,0.1691
+SMTT03845,CCNB1,5,Cyclin B1,None,ENSG00000134057,P14635,0.0281716,0.0489285,1,By_ingredient,0.2837
+SMTT03848,CCNG1,5,Cyclin G1,None,ENSG00000113328,P51959,0.00410957,0.0334136,1,By_ingredient,0.368
+SMTT03850,EGR1,5,Early Growth Response 1,None,ENSG00000120738,P18146,3.82E-05,0.00163412,1,By_ingredient,0.861
+SMTT03856,CSNK1A1,5,Casein Kinase 1 Alpha 1,None,ENSG00000113712,P48729,0.00410957,0.0334136,1,By_ingredient,0.4093
+SMTT03859,CD69,12,CD69 Molecule,None,ENSG00000110848,Q07108,3.03E-05,0.00136329,1,By_ingredient,0.817
+SMTT03863,CDC25C,5,Cell Division Cycle 25C,None,ENSG00000158402,P30307,0.00864991,0.0448525,1,By_ingredient,0.3846
+SMTT03875,BAK1,6,BCL2 Antagonist/killer 1,None,ENSG00000030110,Q16611,0.00418057,0.0173669,1,By_ingredient,0.3771
+SMTT03876,BARD1,2,BRCA1 Associated RING Domain 1,None,ENSG00000138376,Q99728,2.71E-06,0.000208807,1,By_ingredient,0.9851
+SMTT03877,BAX,19,"BCL2 Associated X, Apoptosis Regulator",None,ENSG00000087088,Q07812,7.59E-06,0.000467762,1,By_ingredient,1.8935
+SMTT03882,BCL3,19,B Cell CLL/lymphoma 3,None,ENSG00000069399,P20749,2.71E-06,0.000208807,1,By_ingredient,0.959
+SMTT03886,BID,22,BH3 Interacting Domain Death Agonist,None,ENSG00000015475,P55957,0.000926101,0.00686939,1,By_ingredient,0.1911
+SMTT03896,CCR3,3,C-C Motif Chemokine Receptor 3,None,ENSG00000183625,P51677,0.000287274,0.00686367,1,By_ingredient,0.8564
+SMTT03897,CCR4,3,C-C Motif Chemokine Receptor 4,None,ENSG00000183813,P51679,0.000197836,0.00533722,1,By_ingredient,0.8537
+SMTT03898,CCR7,17,C-C Motif Chemokine Receptor 7,None,ENSG00000126353,P32248,0.0181608,0.0589026,1,By_ingredient,0.3424
+SMTT03899,C5AR1,19,Complement C5a Receptor 1,None,ENSG00000197405,P21730,0.03052,0.0724498,1,By_ingredient,0.3816
+SMTT03908,E2F1,20,E2F Transcription Factor 1,None,ENSG00000101412,Q01094,0.00251849,0.0266184,1,By_ingredient,0.5521
+SMTT03916,CREM,10,CAMP Responsive Element Modulator,None,ENSG00000095794,Q03060,0.000104747,0.00339246,1,By_ingredient,0.5723
+SMTT03918,CASP9,1,Caspase 9,None,ENSG00000132906,P55211,3.37E-05,0.00148097,1,By_ingredient,1.4094
+SMTT03920,RUNX1T1,8,RUNX1 Translocation Partner 1,None,ENSG00000079102,Q06455,0.0846423,0.108995,1,By_ingredient,0.1564
+SMTT03926,GABPB1,15,GA Binding Protein Transcription Factor Beta Subunit 1,None,ENSG00000104064,Q06547,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8105
+SMTT03927,HAS2,8,Hyaluronan Synthase 2,None,ENSG00000170961,Q92819,0.0730022,0.0969123,1,By_ingredient,0.1831
+SMTT03928,IL18,11,Interleukin 18,None,ENSG00000150782,Q14116,8.90E-05,0.00301606,1,By_ingredient,0.765
+SMTT03934,GAP43,3,Growth Associated Protein 43,None,ENSG00000172020,P17677,0.0612147,0.0844548,1,By_ingredient,0.1737
+SMTT03937,IRF3,19,Interferon Regulatory Factor 3,None,ENSG00000126456,Q14653,0.0249489,0.0450476,1,By_ingredient,0.2276
+SMTT03938,GCG,2,Glucagon,None,ENSG00000115263,P01275,0.0371899,0.0588313,1,By_ingredient,0.1462
+SMTT03944,GGT5,22,Gamma-glutamyltransferase 5,None,ENSG00000099998,P36269,0.000926101,0.00686939,1,By_ingredient,0.4017
+SMTT03946,IVL,1,Involucrin,None,ENSG00000163207,P07476,0.0371899,0.0588313,1,By_ingredient,0.2067
+SMTT03948,JUND,19,"JunD Proto-oncogene, AP-1 Transcription Factor Subunit",None,ENSG00000130522,P17535,0.000945671,0.0150718,1,By_ingredient,0.5752
+SMTT03952,FABP1,2,Fatty Acid Binding Protein 1,None,ENSG00000163586,P07148,0.000156944,0.00198954,1,By_ingredient,0.3277
+SMTT03962,GPR3,1,G Protein-coupled Receptor 3,None,ENSG00000181773,P46089,0.0071546,0.0417534,1,By_ingredient,0.467
+SMTT03963,HSPA1B,6,Heat Shock Protein Family A (Hsp70) Member 1B,None,ENSG00000204388,P08107,0.00282406,0.0284317,1,By_ingredient,0.5693
+SMTT03964,DNAJB1,19,DnaJ Heat Shock Protein Family (Hsp40) Member B1,None,ENSG00000132002,P25685,0.00175004,0.0221497,1,By_ingredient,0.3831
+SMTT03967,ID1,20,"Inhibitor Of DNA Binding 1, HLH Protein",None,ENSG00000125968,P41134,0.00410957,0.0334136,1,By_ingredient,0.4002
+SMTT03969,FOSB,19,"FosB Proto-oncogene, AP-1 Transcription Factor Subunit",None,ENSG00000125740,P53539,0.00618817,0.0394319,1,By_ingredient,0.396
+SMTT03970,FOSL2,2,"FOS Like 2, AP-1 Transcription Factor Subunit",None,ENSG00000075426,P15408,0.000202425,0.00541721,1,By_ingredient,0.5556
+SMTT03971,CXCL1,4,C-X-C Motif Chemokine Ligand 1,None,ENSG00000163739,P09341,0.0083185,0.0442289,1,By_ingredient,0.5369
+SMTT03977,IGFBP5,2,Insulin Like Growth Factor Binding Protein 5,None,ENSG00000115461,P24593,0.00243231,0.0261241,1,By_ingredient,0.4243
+SMTT03978,IGHD,14,Immunoglobulin Heavy Constant Delta,None,None,P01880,0.0109789,0.0300666,1,By_ingredient,0.2312
+SMTT03990,NFE2L2,2,"Nuclear Factor, Erythroid 2 Like 2",None,ENSG00000116044,Q16236,0.00348153,0.0315771,1,By_ingredient,0.8823
+SMTT03991,PIP4K2A,10,Phosphatidylinositol-5-phosphate 4-kinase Type 2 Alpha,None,ENSG00000150867,P48426,0.00117521,0.0172508,1,By_ingredient,0.3669
+SMTT03993,SCD,10,Stearoyl-CoA Desaturase,None,ENSG00000099194,O00767,0.0125529,0.0300666,1,By_ingredient,0.1398
+SMTT04000,CCL16,17,C-C Motif Chemokine Ligand 16,None,ENSG00000275152,O15467,0.0218377,0.0636904,1,By_ingredient,0.2005
+SMTT04003,PMAIP1,18,Phorbol-12-myristate-13-acetate-induced Protein 1,None,ENSG00000141682,Q13794,0.00172775,0.0219482,1,By_ingredient,0.5758
+SMTT04014,NRF1,7,Nuclear Respiratory Factor 1,None,ENSG00000106459,Q16656,0.0371899,0.0588313,1,By_ingredient,0.194
+SMTT04022,RASGRF2,5,Ras Protein Specific Guanine Nucleotide Releasing Factor 2,None,ENSG00000113319,O14827,0.00660841,0.0217182,1,By_ingredient,0.1769
+SMTT04023,RBP2,3,Retinol Binding Protein 2,None,ENSG00000114113,P50120,0.000156944,0.00198954,1,By_ingredient,0.3596
+SMTT04024,OLR1,12,Oxidized Low Density Lipoprotein Receptor 1,None,ENSG00000173391,P78380,0.0371899,0.0588313,1,By_ingredient,0.1889
+SMTT04030,CITED1,X,Cbp/p300 Interacting Transactivator With Glu/Asp Rich Carboxy-terminal Domain 1,None,ENSG00000125931,Q99966,0.0125529,0.0300666,1,By_ingredient,0.1675
+SMTT04038,MAP2K5,15,Mitogen-activated Protein Kinase Kinase 5,None,ENSG00000137764,Q13163,0.0325776,0.0745352,1,By_ingredient,0.2253
+SMTT04040,PRL,6,Prolactin,None,ENSG00000172179,P01236,0.000794486,0.0136712,1,By_ingredient,0.6008
+SMTT04042,PDGFA,7,Platelet Derived Growth Factor Subunit A,None,ENSG00000197461,P04085,0.0249489,0.0450476,1,By_ingredient,None
+SMTT04047,PYY,17,Peptide YY,None,ENSG00000131096,P10082,0.0125529,0.0300666,1,By_ingredient,0.333
+SMTT04054,PGA5,11,"Pepsinogen 5, Group I (pepsinogen A)",None,ENSG00000256713,P00790,0.0125529,0.0300666,1,By_ingredient,0.1857
+SMTT04063,FOSL1,11,"FOS Like 1, AP-1 Transcription Factor Subunit",None,ENSG00000175592,P15407,0.0114772,0.0500184,1,By_ingredient,0.3538
+SMTT04065,TNFSF10,3,TNF Superfamily Member 10,None,ENSG00000121858,P50591,0.0352021,0.0767794,1,By_ingredient,0.3539
+SMTT04068,UCP3,11,Uncoupling Protein 3,None,ENSG00000175564,P55916,0.0249489,0.0450476,1,By_ingredient,0.1618
+SMTT04074,SLC2A4,17,Solute Carrier Family 2 Member 4,None,ENSG00000181856,P14672,0.162147,0.188679,1,By_ingredient,0.3149
+SMTT04076,TEP1,14,Telomerase Associated Protein 1,None,ENSG00000129566,Q99973,0.0147964,0.0331133,1,By_ingredient,0.2839
+SMTT04085,TIMP1,X,TIMP Metallopeptidase Inhibitor 1,None,ENSG00000102265,P01033,0.0109627,0.0495122,1,By_ingredient,0.5801
+SMTT04090,SOD3,4,Superoxide Dismutase 3,None,ENSG00000109610,P08294,0.00172775,0.0219482,1,By_ingredient,0.5579
+SMTT04091,SP1,12,Sp1 Transcription Factor,None,ENSG00000185591,P08047,0.0249489,0.0450476,1,By_ingredient,0.171
+SMTT04105,TRAP1,16,TNF Receptor Associated Protein 1,None,ENSG00000126602,Q12931,0.00175004,0.0221497,1,By_ingredient,0.3824
+SMTT04120,CES2,16,Carboxylesterase 2,None,ENSG00000172831,O00748,0.0730022,0.0969123,1,By_ingredient,0.1838
+SMTT04127,PTGES,9,Prostaglandin E Synthase,None,ENSG00000148344,O14684,0.0492779,0.0716808,1,By_ingredient,0.1543
+SMTT04128,ABI1,10,Abl Interactor 1,None,ENSG00000136754,Q8IZP0,0.0125529,0.0300666,1,By_ingredient,0.1952
+SMTT04136,SPEN,1,Spen Family Transcriptional Repressor,None,ENSG00000065526,Q96T58,0.00321961,0.0304786,1,By_ingredient,0.4057
+SMTT04139,DNAJB4,1,DnaJ Heat Shock Protein Family (Hsp40) Member B4,None,ENSG00000162616,Q9UDY4,4.84E-05,0.00194077,1,By_ingredient,0.7772
+SMTT04158,SERTAD3,19,SERTA Domain Containing 3,None,ENSG00000167565,Q9UJW9,0.0109789,0.0300666,1,By_ingredient,0.221
+SMTT04165,NOX4,11,NADPH Oxidase 4,None,ENSG00000086991,Q9NPH5,0.0249489,0.0450476,1,By_ingredient,0.3664
+SMTT04177,HERC5,4,HECT And RLD Domain Containing E3 Ubiquitin Protein Ligase 5,None,ENSG00000138646,Q9UII4,0.0188524,0.0379495,1,By_ingredient,0.2037
+SMTT04184,UGT1A6,2,UDP Glucuronosyltransferase Family 1 Member A6,None,ENSG00000167165,P19224,0.00251849,0.0266184,1,By_ingredient,0.5956
+SMTT04186,AZIN1,8,Antizyme Inhibitor 1,None,ENSG00000155096,O14977,0.0125529,0.0300666,1,By_ingredient,0.2205
+SMTT04194,RETN,19,Resistin,None,ENSG00000104918,Q9HD89,0.0492779,0.0716808,1,By_ingredient,0.2001
+SMTT04209,CYBRD1,2,Cytochrome B Reductase 1,None,ENSG00000071967,Q53TN4,0.0125529,0.0300666,1,By_ingredient,0.1977
+SMTT04213,FTMT,5,Ferritin Mitochondrial,None,ENSG00000181867,Q8N4E7,0.0492779,0.0716808,1,By_ingredient,0.1934
+SMTT04215,NUF2,1,"NUF2, NDC80 Kinetochore Complex Component",None,ENSG00000143228,Q9BZD4,0.0249489,0.0450476,1,By_ingredient,0.172
+SMTT04217,DGAT2,11,Diacylglycerol O-acyltransferase 2,None,ENSG00000062282,Q96PD7,0.0125529,0.0300666,1,By_ingredient,0.2392
+SMTT04234,NAPEPLD,7,N-acyl Phosphatidylethanolamine Phospholipase D,None,ENSG00000161048,Q6IQ20,0.00509985,0.0364165,1,By_ingredient,0.3785
+SMTT04237,PLB1,2,Phospholipase B1,None,ENSG00000163803,Q6P1J6,0.000174244,0.00214779,1,By_ingredient,0.8796
+SMTT04239,ENPP7,17,Ectonucleotide Pyrophosphatase/phosphodiesterase 7,None,ENSG00000182156,Q6UWV6,0.0249489,0.0450476,1,By_ingredient,0.1805
+SMTT04245,GUSBP1,5,"Glucuronidase, Beta Pseudogene 1",None,ENSG00000183666,Q15486,0.0371899,0.0588313,1,By_ingredient,0.1766
+SMTT04256,VAOA,None,Vanillyl-alcohol Oxidase,None,None,P56216,0.0109789,0.0300666,1,By_ingredient,0.2487
+SMTT04257,CYP73A5,None,Trans-cinnamate 4-monooxygenase,None,None,P92994,0.0109789,0.0495377,1,By_ingredient,0.2753
+SMTT04265,NO66,None,Lysine-specific Demethylase NO66,None,None,Q9H6W3,0.0218377,0.0450476,1,By_ingredient,0.2058
+SMTT04266,CDC2,None,Cell Division Control Protein 2 Homolog,None,None,P06493,0.00561086,0.0200448,1,By_ingredient,0.3018
+SMTT04268,MAC1,None,Metal-binding Activator 1,None,None,P35192,0.0109789,0.0300666,1,By_ingredient,0.2411
+SMTT04275,CRN-7,None,Cell-death-related Nuclease 7,None,None,P34387,0.0109789,0.0300666,1,By_ingredient,0.1789
+SMTT04281,DEFB4,None,Beta-defensin 2,None,None,O15263,0.0325776,0.0588313,1,By_ingredient,0.1979
+SMTT04285,PEPC,None,Subtilisin-like Serine Protease PepC,None,None,P33295,0.0109789,0.0300666,1,By_ingredient,0.2462
+SMTT04291,DMTN,8,Dematin Actin Binding Protein,None,ENSG00000158856,None,0.0218377,0.0636904,1,By_ingredient,0.2168
+SMTT04293,FCGR2B,1,Fc Fragment Of IgG Receptor IIb,None,ENSG00000072694,None,0.00243231,0.0261241,1,By_ingredient,0.3986
+SMTT04295,GYPB,4,Glycophorin B (MNS Blood Group),None,ENSG00000250361,None,0.0218377,0.0636904,1,By_ingredient,0.1979
+SMTT04320,ABCA6,None,ATP binding cassette subfamily A member 6,None,ENSG00000154262,None,0.0325776,0.0745352,1,By_ingredient,0.1752
+SMTT04330,ABCC12,None,ATP binding cassette subfamily C member 12,None,ENSG00000140798,None,0.00321961,0.0304786,1,By_ingredient,0.3936
+SMTT04355,ABRACL,None,ABRA C-terminal like,None,ENSG00000146386,None,0.000357738,0.00792072,1,By_ingredient,0.3523
+SMTT04357,ABTB1,None,ankyrin repeat and BTB domain containing 1,None,ENSG00000114626,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.9021
+SMTT04369,ACKR3,None,atypical chemokine receptor 3,None,ENSG00000144476,None,0.00161549,0.0210028,1,By_ingredient,0.615
+SMTT04415,ACTR1A,None,ARP1 actin related protein 1 homolog A,None,ENSG00000138107,None,0.0200342,0.061282,1,By_ingredient,0.3739
+SMTT04434,ADAM23,None,ADAM metallopeptidase domain 23,None,ENSG00000114948,None,0.0218377,0.0636904,1,By_ingredient,0.2303
+SMTT04475,ADH1A,None,"alcohol dehydrogenase 1A (class I), alpha polypeptide",None,ENSG00000187758,None,4.55E-07,4.73E-05,0.188032,By_ingredient,2.091
+SMTT04484,ADORA1,None,adenosine A1 receptor,None,ENSG00000163485,None,0.0022031,0.024886,1,By_ingredient,0.615
+SMTT04485,ADORA2B,None,adenosine A2b receptor,None,ENSG00000170425,None,0.0083185,0.0442289,1,By_ingredient,0.4756
+SMTT04489,ADRA1B,None,adrenoceptor alpha 1B,None,ENSG00000170214,None,8.95E-25,1.91E-21,3.70E-19,By_ingredient,8.5749
+SMTT04490,ADRA1D,None,adrenoceptor alpha 1D,None,ENSG00000171873,None,7.14E-16,5.21E-13,2.95E-10,By_ingredient,6.0571
+SMTT04491,ADRA2C,None,adrenoceptor alpha 2C,None,ENSG00000184160,None,9.31E-17,7.86E-14,3.85E-11,By_ingredient,4.5217
+SMTT04510,AGO1,None,"argonaute 1, RISC catalytic component",None,ENSG00000092847,None,0.000357738,0.00792072,1,By_ingredient,0.3766
+SMTT04511,AGO2,None,"argonaute 2, RISC catalytic component",None,ENSG00000123908,None,0.00509985,0.0364165,1,By_ingredient,0.3637
+SMTT04530,AIMP2,None,aminoacyl tRNA synthetase complex interacting multifunctional protein 2,None,ENSG00000106305,None,0.00243231,0.0261241,1,By_ingredient,0.4338
+SMTT04544,AKR1B10,None,aldo-keto reductase family 1 member B10,None,ENSG00000198074,None,0.00237023,0.0257383,1,By_ingredient,0.7706
+SMTT04555,ALCAM,None,activated leukocyte cell adhesion molecule,None,ENSG00000170017,None,0.00071028,0.0126907,1,By_ingredient,0.3816
+SMTT04613,ANKDD1B,None,ankyrin repeat and death domain containing 1B,None,ENSG00000189045,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7536
+SMTT04614,ANKEF1,None,ankyrin repeat and EF-hand domain containing 1,None,ENSG00000132623,None,6.09E-07,6.03E-05,0.251985,By_ingredient,0.7926
+SMTT04615,ANKFY1,None,ankyrin repeat and FYVE domain containing 1,None,ENSG00000185722,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8445
+SMTT04616,ANKHD1,None,ankyrin repeat and KH domain containing 1,None,ENSG00000131503,None,8.56E-07,8.02E-05,0.353777,By_ingredient,0.9339
+SMTT04618,ANKK1,None,ankyrin repeat and kinase domain containing 1,None,ENSG00000170209,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.9423
+SMTT04620,ANKRA2,None,ankyrin repeat family A member 2,None,ENSG00000164331,None,6.09E-07,6.03E-05,0.251985,By_ingredient,0.7526
+SMTT04621,ANKRD10,None,ankyrin repeat domain 10,None,ENSG00000088448,None,8.56E-07,8.02E-05,0.353777,By_ingredient,0.9065
+SMTT04622,ANKRD12,None,ankyrin repeat domain 12,None,ENSG00000101745,None,0.00243231,0.0261241,1,By_ingredient,0.368
+SMTT04623,ANKRD16,None,ankyrin repeat domain 16,None,ENSG00000134461,None,6.09E-07,6.03E-05,0.251985,By_ingredient,0.8706
+SMTT04624,ANKRD17,None,ankyrin repeat domain 17,None,ENSG00000132466,None,8.56E-07,8.02E-05,0.353777,By_ingredient,0.8441
+SMTT04625,ANKRD18A,None,ankyrin repeat domain 18A,None,ENSG00000180071,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9171
+SMTT04626,ANKRD18B,None,ankyrin repeat domain 18B,None,ENSG00000230453,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7731
+SMTT04627,ANKRD2,None,ankyrin repeat domain 2,None,ENSG00000165887,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9012
+SMTT04628,ANKRD20A2P,None,None,None,None,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7643
+SMTT04629,ANKRD20A4P,None,None,None,None,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.744
+SMTT04630,ANKRD22,None,ankyrin repeat domain 22,None,ENSG00000152766,None,6.09E-07,6.03E-05,0.251985,By_ingredient,1.0459
+SMTT04631,ANKRD23,None,ankyrin repeat domain 23,None,ENSG00000163126,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8563
+SMTT04632,ANKRD24,None,ankyrin repeat domain 24,None,ENSG00000089847,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7511
+SMTT04633,ANKRD27,None,ankyrin repeat domain 27,None,ENSG00000105186,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.8599
+SMTT04634,ANKRD28,None,ankyrin repeat domain 28,None,ENSG00000206560,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9606
+SMTT04635,ANKRD29,None,ankyrin repeat domain 29,None,ENSG00000154065,None,6.09E-07,6.03E-05,0.251985,By_ingredient,0.9958
+SMTT04636,ANKRD30A,None,ankyrin repeat domain 30A,None,ENSG00000148513,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9154
+SMTT04637,ANKRD30B,None,ankyrin repeat domain 30B,None,ENSG00000180777,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7841
+SMTT04638,ANKRD30BL,None,ankyrin repeat domain 30B like,None,ENSG00000163046,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7624
+SMTT04639,ANKRD35,None,ankyrin repeat domain 35,None,ENSG00000198483,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.9231
+SMTT04640,ANKRD36,None,ankyrin repeat domain 36,None,ENSG00000135976,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7514
+SMTT04641,ANKRD36C,None,ankyrin repeat domain 36C,None,ENSG00000174501,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7796
+SMTT04642,ANKRD37,None,ankyrin repeat domain 37,None,ENSG00000186352,None,1.58E-06,0.000133522,0.652924,By_ingredient,0.8148
+SMTT04643,ANKRD39,None,ankyrin repeat domain 39,None,ENSG00000213337,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8159
+SMTT04644,ANKRD42,None,ankyrin repeat domain 42,None,ENSG00000137494,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7491
+SMTT04645,ANKRD44,None,ankyrin repeat domain 44,None,ENSG00000065413,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7547
+SMTT04647,ANKRD46,None,ankyrin repeat domain 46,None,ENSG00000186106,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.9193
+SMTT04648,ANKRD49,None,ankyrin repeat domain 49,None,ENSG00000168876,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.911
+SMTT04649,ANKRD50,None,ankyrin repeat domain 50,None,ENSG00000151458,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.822
+SMTT04650,ANKRD52,None,ankyrin repeat domain 52,None,ENSG00000139645,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7618
+SMTT04651,ANKRD53,None,ankyrin repeat domain 53,None,ENSG00000144031,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7614
+SMTT04652,ANKRD54,None,ankyrin repeat domain 54,None,ENSG00000100124,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7681
+SMTT04653,ANKRD6,None,ankyrin repeat domain 6,None,ENSG00000135299,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7978
+SMTT04654,ANKRD60,None,ankyrin repeat domain 60,None,ENSG00000124227,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7677
+SMTT04655,ANKRD61,None,ankyrin repeat domain 61,None,ENSG00000157999,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.756
+SMTT04656,ANKRD63,None,ankyrin repeat domain 63,None,ENSG00000230778,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7828
+SMTT04657,ANKRD65,None,ankyrin repeat domain 65,None,ENSG00000235098,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7816
+SMTT04658,ANKRD66,None,ankyrin repeat domain 66,None,ENSG00000230062,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7688
+SMTT04659,ANKRD7,None,ankyrin repeat domain 7,None,ENSG00000106013,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9162
+SMTT04660,ANKRD9,None,ankyrin repeat domain 9,None,ENSG00000156381,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7557
+SMTT04661,ANKS1A,None,ankyrin repeat and sterile alpha motif domain containing 1A,None,ENSG00000064999,None,2.84E-07,3.26E-05,0.117594,By_ingredient,1.0319
+SMTT04662,ANKS1B,None,ankyrin repeat and sterile alpha motif domain containing 1B,None,ENSG00000185046,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.9668
+SMTT04663,ANKS3,None,ankyrin repeat and sterile alpha motif domain containing 3,None,ENSG00000168096,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8076
+SMTT04664,ANKS4B,None,ankyrin repeat and sterile alpha motif domain containing 4B,None,ENSG00000175311,None,6.09E-07,6.03E-05,0.251985,By_ingredient,0.9909
+SMTT04703,APLNR,None,apelin receptor,None,ENSG00000134817,None,0.00161549,0.0210028,1,By_ingredient,0.5704
+SMTT04735,ARF4,None,ADP ribosylation factor 4,None,ENSG00000168374,None,0.00026771,0.00654292,1,By_ingredient,0.5583
+SMTT04744,ARHGAP17,None,Rho GTPase activating protein 17,None,ENSG00000140750,None,0.0325776,0.0745352,1,By_ingredient,0.186
+SMTT04826,ASB1,None,ankyrin repeat and SOCS box containing 1,None,ENSG00000065802,None,1.58E-06,0.000133522,0.652924,By_ingredient,0.9454
+SMTT04827,ASB11,None,ankyrin repeat and SOCS box containing 11,None,ENSG00000165192,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7556
+SMTT04828,ASB12,None,ankyrin repeat and SOCS box containing 12,None,ENSG00000198881,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7809
+SMTT04829,ASB13,None,ankyrin repeat and SOCS box containing 13,None,ENSG00000196372,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9763
+SMTT04830,ASB14,None,ankyrin repeat and SOCS box containing 14,None,ENSG00000239388,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7402
+SMTT04831,ASB15,None,ankyrin repeat and SOCS box containing 15,None,ENSG00000146809,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8325
+SMTT04832,ASB16,None,ankyrin repeat and SOCS box containing 16,None,ENSG00000161664,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7381
+SMTT04833,ASB18,None,ankyrin repeat and SOCS box containing 18,None,ENSG00000182177,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7509
+SMTT04834,ASB2,None,ankyrin repeat and SOCS box containing 2,None,ENSG00000100628,None,6.09E-07,6.03E-05,0.251985,By_ingredient,0.8569
+SMTT04835,ASB4,None,ankyrin repeat and SOCS box containing 4,None,ENSG00000005981,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7513
+SMTT04836,ASB5,None,ankyrin repeat and SOCS box containing 5,None,ENSG00000164122,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7698
+SMTT04837,ASB6,None,ankyrin repeat and SOCS box containing 6,None,ENSG00000148331,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8126
+SMTT04838,ASB7,None,ankyrin repeat and SOCS box containing 7,None,ENSG00000183475,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7811
+SMTT04839,ASB8,None,ankyrin repeat and SOCS box containing 8,None,ENSG00000177981,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8528
+SMTT04840,ASB9,None,ankyrin repeat and SOCS box containing 9,None,ENSG00000102048,None,8.56E-07,8.02E-05,0.353777,By_ingredient,0.8989
+SMTT04855,ASPG,None,asparaginase,None,ENSG00000166183,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9235
+SMTT04861,ASZ1,None,"ankyrin repeat, SAM and basic leucine zipper domain containing 1",None,ENSG00000154438,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9205
+SMTT04865,ATF3,None,activating transcription factor 3,None,ENSG00000162772,None,9.71E-07,8.94E-05,0.401694,By_ingredient,1.1261
+SMTT04866,ATF4,None,activating transcription factor 4,None,ENSG00000128272,None,0.0181608,0.0589026,1,By_ingredient,0.3583
+SMTT04910,ATP5MC3,None,ATP synthase membrane subunit c locus 3,None,ENSG00000154518,None,0.000357738,0.00792072,1,By_ingredient,0.3707
+SMTT04911,ATP5MD,None,ATP synthase membrane subunit DAPIT,None,ENSG00000173915,None,0.000357738,0.00792072,1,By_ingredient,0.3443
+SMTT04913,ATP5MF,None,ATP synthase membrane subunit f,None,ENSG00000241468,None,0.00071028,0.0126907,1,By_ingredient,0.3819
+SMTT04915,ATP5MPL,None,ATP synthase membrane subunit 6.8PL,None,ENSG00000156411,None,0.000120119,0.00375531,1,By_ingredient,0.3219
+SMTT04940,AVPR1A,None,arginine vasopressin receptor 1A,None,ENSG00000166148,None,0.0109627,0.0495122,1,By_ingredient,0.4416
+SMTT04941,AVPR1B,None,arginine vasopressin receptor 1B,None,ENSG00000198049,None,0.00661134,0.0403439,1,By_ingredient,0.4528
+SMTT04975,BBX,None,"BBX, HMG-box containing",None,ENSG00000114439,None,0.00175004,0.0221497,1,By_ingredient,0.3977
+SMTT04977,BCAP29,None,B cell receptor associated protein 29,None,ENSG00000075790,None,0.0325776,0.0745352,1,By_ingredient,0.2435
+SMTT04992,BCORL1,None,BCL6 corepressor like 1,None,ENSG00000085185,None,0.000120119,0.00375531,1,By_ingredient,0.4198
+SMTT04996,BDKRB1,None,bradykinin receptor B1,None,ENSG00000100739,None,0.00312603,0.0300312,1,By_ingredient,0.5719
+SMTT05048,BPTF,None,bromodomain PHD finger transcription factor,None,ENSG00000171634,None,0.00410957,0.0334136,1,By_ingredient,0.3877
+SMTT05065,BRS3,None,bombesin receptor subtype 3,None,ENSG00000102239,None,0.00661134,0.0403439,1,By_ingredient,0.442
+SMTT05083,BTLA,None,B and T lymphocyte associated,None,ENSG00000186265,None,0.0109789,0.0495377,1,By_ingredient,0.2448
+SMTT05189,CALCRL,None,calcitonin receptor like receptor,None,ENSG00000064989,None,0.0218377,0.0636904,1,By_ingredient,0.2128
+SMTT05211,CAP2,None,cyclase associated actin cytoskeleton regulatory protein 2,None,ENSG00000112186,None,0.000357738,0.00792072,1,By_ingredient,0.4093
+SMTT05247,CASKIN1,None,CASK interacting protein 1,None,ENSG00000167971,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7743
+SMTT05248,CASKIN2,None,CASK interacting protein 2,None,ENSG00000177303,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.832
+SMTT05261,CBX1,None,chromobox 1,None,ENSG00000108468,None,0.00071028,0.0126907,1,By_ingredient,0.3866
+SMTT05270,CCAR1,None,cell division cycle and apoptosis regulator 1,None,ENSG00000060339,None,0.000120119,0.00375531,1,By_ingredient,0.41
+SMTT05280,CCDC34,None,coiled-coil domain containing 34,None,ENSG00000109881,None,0.0325776,0.0745352,1,By_ingredient,0.2291
+SMTT05294,CCKAR,None,cholecystokinin A receptor,None,ENSG00000163394,None,0.0102615,0.0477541,1,By_ingredient,0.495
+SMTT05295,CCKBR,None,cholecystokinin B receptor,None,ENSG00000110148,None,0.0109627,0.0495122,1,By_ingredient,0.5095
+SMTT05298,CCL19,None,C-C motif chemokine ligand 19,None,ENSG00000172724,None,0.0181608,0.0589026,1,By_ingredient,0.3358
+SMTT05317,CCNK,None,cyclin K,None,ENSG00000090061,None,0.000120119,0.00375531,1,By_ingredient,0.3399
+SMTT05323,CCR9,None,C-C motif chemokine receptor 9,None,ENSG00000173585,None,0.00161549,0.0210028,1,By_ingredient,0.5722
+SMTT05366,CDC14B,None,cell division cycle 14B,None,ENSG00000081377,None,0.00509985,0.0364165,1,By_ingredient,0.3763
+SMTT05405,CDK1,None,cyclin dependent kinase 1,None,ENSG00000170312,None,0.013229,0.0521172,1,By_ingredient,0.5482
+SMTT05412,CDK19,None,cyclin dependent kinase 19,None,ENSG00000155111,None,0.000120119,0.00375531,1,By_ingredient,0.4117
+SMTT05511,CHD4,None,chromodomain helicase DNA binding protein 4,None,ENSG00000111642,None,0.00243231,0.0261241,1,By_ingredient,0.3864
+SMTT05536,CHRM2,None,cholinergic receptor muscarinic 2,None,ENSG00000181072,None,3.85E-42,4.19E-38,1.59E-36,By_ingredient,11.0046
+SMTT05565,CKB,None,creatine kinase B,None,ENSG00000166165,None,0.0181608,0.0589026,1,By_ingredient,0.3374
+SMTT05571,CKS2,None,CDC28 protein kinase regulatory subunit 2,None,ENSG00000123975,None,0.00410957,0.0334136,1,By_ingredient,0.3812
+SMTT05600,CLEC4A,None,C-type lectin domain family 4 member A,None,ENSG00000111729,None,0.00509985,0.0364165,1,By_ingredient,0.3739
+SMTT05609,CLIC1,None,chloride intracellular channel 1,None,ENSG00000213719,None,0.00243231,0.0261241,1,By_ingredient,0.3953
+SMTT05649,CNOT2,None,CCR4-NOT transcription complex subunit 2,None,ENSG00000111596,None,0.0432001,0.0847847,1,By_ingredient,0.2254
+SMTT05657,CNR1,None,cannabinoid receptor 1,None,ENSG00000118432,None,2.21E-05,0.00108241,1,By_ingredient,1.0726
+SMTT05658,CNR2,None,cannabinoid receptor 2,None,ENSG00000188822,None,2.04E-06,0.000164868,0.841653,By_ingredient,1.2938
+SMTT05660,CNTF,None,ciliary neurotrophic factor,None,ENSG00000242689,None,0.000120119,0.00375531,1,By_ingredient,0.4213
+SMTT05690,COPB2,None,coatomer protein complex subunit beta 2,None,ENSG00000184432,None,0.00071028,0.0126907,1,By_ingredient,0.4122
+SMTT05697,COQ10A,None,coenzyme Q10A,None,ENSG00000135469,None,0.0109789,0.0495377,1,By_ingredient,0.2393
+SMTT05729,CPEB4,None,cytoplasmic polyadenylation element binding protein 4,None,ENSG00000113742,None,0.000357738,0.00792072,1,By_ingredient,0.3706
+SMTT05752,CREB,None,None,None,None,None,0.0218377,0.0636904,1,By_ingredient,0.2813
+SMTT05758,CREBRF,None,CREB3 regulatory factor,None,ENSG00000164463,None,0.000357738,0.00792072,1,By_ingredient,0.3636
+SMTT05761,CRIM1,None,cysteine rich transmembrane BMP regulator 1,None,ENSG00000150938,None,0.0325776,0.0745352,1,By_ingredient,0.2225
+SMTT05793,CSNK1G1,None,casein kinase 1 gamma 1,None,ENSG00000169118,None,0.00071028,0.0126907,1,By_ingredient,0.4003
+SMTT05824,CTRB1,None,chymotrypsinogen B1,None,ENSG00000168925,None,5.09E-08,7.54E-06,0.0210673,By_ingredient,1.9674
+SMTT05835,CTTNBP2,None,cortactin binding protein 2,None,ENSG00000077063,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.9122
+SMTT05856,CXCR1,None,C-X-C motif chemokine receptor 1,None,ENSG00000163464,None,0.0219847,0.0639039,1,By_ingredient,0.4014
+SMTT05860,CXCR6,None,C-X-C motif chemokine receptor 6,None,ENSG00000172215,None,0.00161549,0.0210028,1,By_ingredient,0.573
+SMTT05894,CYP51A1,None,cytochrome P450 family 51 subfamily A member 1,None,ENSG00000001630,None,0.0282799,0.0705716,1,By_ingredient,0.412
+SMTT05950,DDB1,None,damage specific DNA binding protein 1,None,ENSG00000167986,None,0.00071028,0.0126907,1,By_ingredient,0.4546
+SMTT05952,DDIT4,None,DNA damage inducible transcript 4,None,ENSG00000168209,None,0.0114772,0.0500184,1,By_ingredient,0.4147
+SMTT05983,DEFB104A,None,defensin beta 104A,None,ENSG00000176782,None,0.0325776,0.0745352,1,By_ingredient,0.2057
+SMTT06030,DHX15,None,DEAH-box helicase 15,None,ENSG00000109606,None,0.00071028,0.0126907,1,By_ingredient,0.4355
+SMTT06057,DIXDC1,None,DIX domain containing 1,None,ENSG00000150764,None,0.0218377,0.0636904,1,By_ingredient,0.1957
+SMTT06079,DNAJA1,None,DnaJ heat shock protein family (Hsp40) member A1,None,ENSG00000086061,None,0.00117521,0.0172508,1,By_ingredient,0.3893
+SMTT06084,DNAJB14,None,DnaJ heat shock protein family (Hsp40) member B14,None,ENSG00000164031,None,0.000120119,0.00375531,1,By_ingredient,0.3884
+SMTT06103,DNMBP,None,dynamin binding protein,None,ENSG00000107554,None,0.00117521,0.0172508,1,By_ingredient,0.407
+SMTT06122,DPEP1,None,dipeptidase 1,None,ENSG00000015413,None,4.01E-23,7.34E-20,1.66E-17,By_ingredient,9.5676
+SMTT06129,DPP4,None,dipeptidyl peptidase 4,None,ENSG00000197635,None,3.23E-33,1.65E-29,1.34E-27,By_ingredient,18.505
+SMTT06146,DRD4,None,dopamine receptor D4,None,ENSG00000069696,None,0.0042828,0.0342023,1,By_ingredient,0.6376
+SMTT06191,DYNLRB1,None,dynein light chain roadblock-type 1,None,ENSG00000125971,None,0.0218377,0.0636904,1,By_ingredient,0.2288
+SMTT06194,DYRK2,None,dual specificity tyrosine phosphorylation regulated kinase 2,None,ENSG00000127334,None,0.000357738,0.00792072,1,By_ingredient,0.3356
+SMTT06203,EAF2,None,ELL associated factor 2,None,ENSG00000145088,None,0.0325776,0.0745352,1,By_ingredient,0.2295
+SMTT06265,EHMT2,None,euchromatic histone lysine methyltransferase 2,None,ENSG00000204371,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9913
+SMTT06270,EIF1AX,None,"eukaryotic translation initiation factor 1A, X-linked",None,ENSG00000173674,None,0.000357738,0.00792072,1,By_ingredient,0.3828
+SMTT06273,EIF2A,None,eukaryotic translation initiation factor 2A,None,ENSG00000144895,None,0.00175004,0.0221497,1,By_ingredient,0.408
+SMTT06279,EIF3B,None,eukaryotic translation initiation factor 3 subunit B,None,ENSG00000106263,None,0.00175004,0.0221497,1,By_ingredient,0.3948
+SMTT06281,EIF3I,None,eukaryotic translation initiation factor 3 subunit I,None,ENSG00000084623,None,0.000120119,0.00375531,1,By_ingredient,0.4228
+SMTT06291,EIF5,None,eukaryotic translation initiation factor 5,None,ENSG00000100664,None,0.00410957,0.0334136,1,By_ingredient,0.4086
+SMTT06320,EMB,None,embigin,None,ENSG00000170571,None,0.0218377,0.0636904,1,By_ingredient,0.1839
+SMTT06335,ENO1,None,enolase 1,None,ENSG00000074800,None,0.014653,0.0546754,1,By_ingredient,0.4043
+SMTT06373,EPS15,None,epidermal growth factor receptor pathway substrate 15,None,ENSG00000085832,None,0.00117521,0.0172508,1,By_ingredient,0.3693
+SMTT06387,ERG28,None,ergosterol biosynthesis 28 homolog,None,ENSG00000133935,None,0.000357738,0.00792072,1,By_ingredient,0.4022
+SMTT06402,ERRFI1,None,ERBB receptor feedback inhibitor 1,None,ENSG00000116285,None,0.0432001,0.0847847,1,By_ingredient,0.2087
+SMTT06408,ESPNL,None,espin like,None,ENSG00000144488,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7491
+SMTT06436,EXOSC4,None,exosome component 4,None,ENSG00000178896,None,0.00243231,0.0261241,1,By_ingredient,0.428
+SMTT06464,FAM102B,None,family with sequence similarity 102 member B,None,ENSG00000162636,None,0.0218377,0.0636904,1,By_ingredient,0.2153
+SMTT06475,FAM126B,None,family with sequence similarity 126 member B,None,ENSG00000155744,None,0.000357738,0.00792072,1,By_ingredient,0.3328
+SMTT06485,FAM169A,None,family with sequence similarity 169 member A,None,ENSG00000198780,None,0.000357738,0.00792072,1,By_ingredient,0.3846
+SMTT06521,FANK1,None,fibronectin type III and ankyrin repeat domains 1,None,ENSG00000203780,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7439
+SMTT06544,FBXL22,None,F-box and leucine rich repeat protein 22,None,ENSG00000197361,None,0.000120119,0.00375531,1,By_ingredient,0.329
+SMTT06558,FBXO45,None,F-box protein 45,None,ENSG00000174013,None,0.000357738,0.00792072,1,By_ingredient,0.3852
+SMTT06562,FBXO9,None,F-box protein 9,None,ENSG00000112146,None,0.0218377,0.0636904,1,By_ingredient,0.1859
+SMTT06578,FEM1A,None,fem-1 homolog A,None,ENSG00000141965,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.8477
+SMTT06579,FEM1B,None,fem-1 homolog B,None,ENSG00000169018,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.9308
+SMTT06580,FEM1C,None,fem-1 homolog C,None,ENSG00000145780,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9222
+SMTT06593,FFAR4,None,free fatty acid receptor 4,None,ENSG00000186188,None,0.0148771,0.0551503,1,By_ingredient,0.4765
+SMTT06610,FICD,None,FIC domain containing,None,ENSG00000198855,None,0.0218377,0.0636904,1,By_ingredient,0.2222
+SMTT06650,FNIP1,None,folliculin interacting protein 1,None,ENSG00000217128,None,0.000357738,0.00792072,1,By_ingredient,0.4153
+SMTT06652,FNTA,None,"farnesyltransferase, CAAX box, alpha",None,ENSG00000168522,None,0.00117521,0.0172508,1,By_ingredient,0.3682
+SMTT06663,FOXM1,None,forkhead box M1,None,ENSG00000111206,None,0.00737226,0.0422421,1,By_ingredient,0.395
+SMTT06670,FPGT-TNNI3K,None,FPGT-TNNI3K readthrough,None,ENSG00000259030,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.8668
+SMTT06706,FXYD3,None,FXYD domain containing ion transport regulator 3,None,ENSG00000089356,None,0.000120119,0.00375531,1,By_ingredient,0.4063
+SMTT06726,GABPA,None,GA binding protein transcription factor alpha subunit,None,ENSG00000154727,None,0.00243231,0.0261241,1,By_ingredient,0.4347
+SMTT06727,GABPB2,None,GA binding protein transcription factor beta subunit 2,None,ENSG00000143458,None,2.71E-06,0.000208807,1,By_ingredient,0.9034
+SMTT06734,GABRG1,None,gamma-aminobutyric acid type A receptor gamma1 subunit,None,ENSG00000163285,None,0.0432001,0.0847847,1,By_ingredient,0.21
+SMTT06763,GALR1,None,galanin receptor 1,None,ENSG00000166573,None,0.00161549,0.0210028,1,By_ingredient,0.5914
+SMTT06764,GALR2,None,galanin receptor 2,None,ENSG00000182687,None,0.00189355,0.022902,1,By_ingredient,0.5975
+SMTT06765,GALR3,None,galanin receptor 3,None,ENSG00000128310,None,0.00204428,0.0237005,1,By_ingredient,0.5832
+SMTT06791,GCLM,None,glutamate-cysteine ligase modifier subunit,None,ENSG00000023909,None,1.08E-05,0.000615116,1,By_ingredient,1.1249
+SMTT06802,GDF15,None,growth differentiation factor 15,None,ENSG00000130513,None,0.03052,0.0724498,1,By_ingredient,0.3921
+SMTT06847,GIPC1,None,GIPC PDZ domain containing family member 1,None,ENSG00000123159,None,0.00175004,0.0221497,1,By_ingredient,0.3819
+SMTT06861,GLG1,None,golgi glycoprotein 1,None,ENSG00000090863,None,0.00117521,0.0172508,1,By_ingredient,0.3934
+SMTT06882,GLYAT,None,glycine-N-acyltransferase,None,ENSG00000149124,None,0.0325776,0.0745352,1,By_ingredient,0.1825
+SMTT06883,GLYATL1,None,glycine-N-acyltransferase like 1,None,ENSG00000166840,None,0.0325776,0.0745352,1,By_ingredient,0.1737
+SMTT06910,GNL3L,None,G protein nucleolar 3 like,None,ENSG00000130119,None,0.00071028,0.0126907,1,By_ingredient,0.365
+SMTT06920,GOLGB1,None,golgin B1,None,ENSG00000173230,None,0.000120119,0.00375531,1,By_ingredient,0.428
+SMTT06949,GPR119,None,G protein-coupled receptor 119,None,ENSG00000147262,None,0.00661134,0.0403439,1,By_ingredient,0.4328
+SMTT06950,GPR12,None,G protein-coupled receptor 12,None,ENSG00000132975,None,0.00661134,0.0403439,1,By_ingredient,0.4351
+SMTT06952,GPR135,None,G protein-coupled receptor 135,None,ENSG00000181619,None,0.00661134,0.0403439,1,By_ingredient,0.4388
+SMTT06954,GPR139,None,G protein-coupled receptor 139,None,ENSG00000180269,None,0.00661134,0.0403439,1,By_ingredient,0.4347
+SMTT06955,GPR142,None,G protein-coupled receptor 142,None,ENSG00000257008,None,0.0071546,0.0417534,1,By_ingredient,0.4308
+SMTT06956,GPR148,None,G protein-coupled receptor 148,None,ENSG00000173302,None,0.00661134,0.0403439,1,By_ingredient,0.4483
+SMTT06958,GPR150,None,G protein-coupled receptor 150,None,ENSG00000178015,None,0.00661134,0.0403439,1,By_ingredient,0.429
+SMTT06959,GPR151,None,G protein-coupled receptor 151,None,ENSG00000173250,None,0.00661134,0.0403439,1,By_ingredient,0.4325
+SMTT06962,GPR173,None,G protein-coupled receptor 173,None,ENSG00000184194,None,0.00661134,0.0403439,1,By_ingredient,0.432
+SMTT06963,GPR176,None,G protein-coupled receptor 176,None,ENSG00000166073,None,0.00661134,0.0403439,1,By_ingredient,0.4669
+SMTT06964,GPR18,None,G protein-coupled receptor 18,None,ENSG00000125245,None,0.000945671,0.0150718,1,By_ingredient,0.4692
+SMTT06965,GPR19,None,G protein-coupled receptor 19,None,ENSG00000183150,None,0.00661134,0.0403439,1,By_ingredient,0.4781
+SMTT06966,GPR21,None,G protein-coupled receptor 21,None,ENSG00000011454,None,0.000864693,0.0144565,1,By_ingredient,0.6551
+SMTT06967,GPR22,None,G protein-coupled receptor 22,None,ENSG00000172209,None,0.00661134,0.0403439,1,By_ingredient,0.4406
+SMTT06968,GPR26,None,G protein-coupled receptor 26,None,ENSG00000154478,None,0.00661134,0.0403439,1,By_ingredient,0.4466
+SMTT06969,GPR27,None,G protein-coupled receptor 27,None,ENSG00000170837,None,0.00661134,0.0403439,1,By_ingredient,0.4552
+SMTT06971,GPR37,None,G protein-coupled receptor 37,None,ENSG00000170775,None,0.00661134,0.0403439,1,By_ingredient,0.4693
+SMTT06972,GPR37L1,None,G protein-coupled receptor 37 like 1,None,ENSG00000170075,None,0.00661134,0.0403439,1,By_ingredient,0.4479
+SMTT06973,GPR39,None,G protein-coupled receptor 39,None,ENSG00000183840,None,0.00661134,0.0403439,1,By_ingredient,0.4769
+SMTT06975,GPR45,None,G protein-coupled receptor 45,None,ENSG00000135973,None,0.00661134,0.0403439,1,By_ingredient,0.4398
+SMTT06977,GPR52,None,G protein-coupled receptor 52,None,ENSG00000203737,None,0.00661134,0.0403439,1,By_ingredient,0.4171
+SMTT06978,GPR55,None,G protein-coupled receptor 55,None,ENSG00000135898,None,3.86E-05,0.00164636,1,By_ingredient,0.6725
+SMTT06979,GPR6,None,G protein-coupled receptor 6,None,ENSG00000146360,None,0.00661134,0.0403439,1,By_ingredient,0.4311
+SMTT06980,GPR61,None,G protein-coupled receptor 61,None,ENSG00000156097,None,0.00661134,0.0403439,1,By_ingredient,0.4263
+SMTT06981,GPR62,None,G protein-coupled receptor 62,None,ENSG00000180929,None,0.00661134,0.0403439,1,By_ingredient,0.4231
+SMTT06982,GPR63,None,G protein-coupled receptor 63,None,ENSG00000112218,None,0.00661134,0.0403439,1,By_ingredient,0.4316
+SMTT06983,GPR65,None,G protein-coupled receptor 65,None,ENSG00000140030,None,0.0102615,0.0477541,1,By_ingredient,0.4998
+SMTT06986,GPR78,None,G protein-coupled receptor 78,None,ENSG00000155269,None,0.00661134,0.0403439,1,By_ingredient,0.4343
+SMTT06987,GPR83,None,G protein-coupled receptor 83,None,ENSG00000123901,None,0.0071546,0.0417534,1,By_ingredient,0.4221
+SMTT06988,GPR84,None,G protein-coupled receptor 84,None,ENSG00000139572,None,0.0071546,0.0417534,1,By_ingredient,0.449
+SMTT06989,GPR85,None,G protein-coupled receptor 85,None,ENSG00000164604,None,0.00661134,0.0403439,1,By_ingredient,0.4673
+SMTT06997,GPX3,None,glutathione peroxidase 3,None,ENSG00000211445,None,0.000794486,0.0136712,1,By_ingredient,0.609
+SMTT07034,GRPR,None,gastrin releasing peptide receptor,None,ENSG00000126010,None,0.0102615,0.0477541,1,By_ingredient,0.48
+SMTT07058,GTF2H1,None,general transcription factor IIH subunit 1,None,ENSG00000110768,None,0.0325776,0.0745352,1,By_ingredient,0.2482
+SMTT07090,H2AC6,None,None,None,None,None,0.00175004,0.0221497,1,By_ingredient,0.3605
+SMTT07094,H2BC12,None,None,None,None,None,0.000357738,0.00792072,1,By_ingredient,0.3817
+SMTT07103,H4C1,None,None,None,None,None,0.00117521,0.0172508,1,By_ingredient,0.3666
+SMTT07137,HCRTR1,None,hypocretin receptor 1,None,ENSG00000121764,None,0.0102615,0.0477541,1,By_ingredient,0.4697
+SMTT07138,HCRTR2,None,hypocretin receptor 2,None,ENSG00000137252,None,0.0102615,0.0477541,1,By_ingredient,0.4796
+SMTT07143,HDAC3,None,histone deacetylase 3,None,ENSG00000171720,None,0.0130225,0.051746,1,By_ingredient,0.3887
+SMTT07154,HEATR5B,None,HEAT repeat containing 5B,None,ENSG00000008869,None,0.0218377,0.0636904,1,By_ingredient,0.1765
+SMTT07195,HIPK1,None,homeodomain interacting protein kinase 1,None,ENSG00000163349,None,0.00117521,0.0172508,1,By_ingredient,0.4109
+SMTT07232,HNRNPA3,None,heterogeneous nuclear ribonucleoprotein A3,None,ENSG00000170144,None,0.0432001,0.0847847,1,By_ingredient,0.1915
+SMTT07236,HNRNPF,None,heterogeneous nuclear ribonucleoprotein F,None,ENSG00000169813,None,0.000357738,0.00792072,1,By_ingredient,0.4141
+SMTT07273,HRH3,None,histamine receptor H3,None,ENSG00000101180,None,0.00161549,0.0210028,1,By_ingredient,0.586
+SMTT07274,HRH4,None,histamine receptor H4,None,ENSG00000134489,None,0.00161549,0.0210028,1,By_ingredient,0.5742
+SMTT07291,HSP90AA1,None,heat shock protein 90 alpha family class A member 1,None,ENSG00000080824,None,0.00560074,0.0381282,1,By_ingredient,0.577
+SMTT07298,HSPA1A,None,heat shock protein family A (Hsp70) member 1A,None,ENSG00000204389,None,0.00129989,0.0183469,1,By_ingredient,0.5544
+SMTT07299,HSPA1L,None,heat shock protein family A (Hsp70) member 1 like,None,ENSG00000204390,None,0.0003452,0.00774661,1,By_ingredient,0.5321
+SMTT07302,HSPA6,None,heat shock protein family A (Hsp70) member 6,None,ENSG00000173110,None,3.77E-09,7.76E-07,0.0015584,By_ingredient,1.359
+SMTT07303,HSPA8,None,heat shock protein family A (Hsp70) member 8,None,ENSG00000109971,None,0.00864991,0.0448525,1,By_ingredient,0.3686
+SMTT07308,HSPE1,None,heat shock protein family E (Hsp10) member 1,None,ENSG00000115541,None,0.00071028,0.0126907,1,By_ingredient,0.3764
+SMTT07309,HSPH1,None,heat shock protein family H (Hsp110) member 1,None,ENSG00000120694,None,1.43E-07,1.84E-05,0.0592928,By_ingredient,1.1082
+SMTT07312,HTR1E,None,5-hydroxytryptamine receptor 1E,None,ENSG00000168830,None,0.00175069,0.0221539,1,By_ingredient,0.5666
+SMTT07313,HTR1F,None,5-hydroxytryptamine receptor 1F,None,ENSG00000179097,None,0.00175069,0.0221539,1,By_ingredient,0.5814
+SMTT07314,HTR2B,None,5-hydroxytryptamine receptor 2B,None,ENSG00000135914,None,0.013229,0.0521172,1,By_ingredient,0.4604
+SMTT07315,HTR2C,None,5-hydroxytryptamine receptor 2C,None,ENSG00000147246,None,0.013229,0.0521172,1,By_ingredient,0.5027
+SMTT07320,HTR4,None,5-hydroxytryptamine receptor 4,None,ENSG00000164270,None,0.0071546,0.0417534,1,By_ingredient,0.4779
+SMTT07321,HTR5A,None,5-hydroxytryptamine receptor 5A,None,ENSG00000157219,None,0.00161549,0.0210028,1,By_ingredient,0.5672
+SMTT07322,HTR6,None,5-hydroxytryptamine receptor 6,None,ENSG00000158748,None,0.00772357,0.0434183,1,By_ingredient,0.4668
+SMTT07323,HTR7,None,5-hydroxytryptamine receptor 7,None,ENSG00000148680,None,0.0109627,0.0495122,1,By_ingredient,0.5269
+SMTT07330,IARS1,None,None,None,None,None,0.00509985,0.0364165,1,By_ingredient,0.3895
+SMTT07337,ID2,None,inhibitor of DNA binding 2,None,ENSG00000115738,None,0.014653,0.0546754,1,By_ingredient,0.381
+SMTT07356,IFI44L,None,interferon induced protein 44 like,None,ENSG00000137959,None,0.0432001,0.0847847,1,By_ingredient,0.224
+SMTT07402,IL12RB2,None,interleukin 12 receptor subunit beta 2,None,ENSG00000081985,None,0.000120119,0.00375531,1,By_ingredient,0.417
+SMTT07406,IL16,None,interleukin 16,None,ENSG00000172349,None,0.00117521,0.0172508,1,By_ingredient,0.4136
+SMTT07411,IL1R2,None,interleukin 1 receptor type 2,None,ENSG00000115590,None,0.0432001,0.0847847,1,By_ingredient,0.1779
+SMTT07413,IL1RL1,None,interleukin 1 receptor like 1,None,ENSG00000115602,None,0.0325776,0.0745352,1,By_ingredient,0.1881
+SMTT07421,IL3,None,interleukin 3,None,ENSG00000164399,None,0.0325776,0.0745352,1,By_ingredient,0.2122
+SMTT07436,ILK,None,integrin linked kinase,None,ENSG00000166333,None,1.17E-06,0.000104736,0.485453,By_ingredient,0.9413
+SMTT07462,INO80D,None,INO80 complex subunit D,None,ENSG00000114933,None,0.000120119,0.00375531,1,By_ingredient,0.3667
+SMTT07470,INSIG1,None,insulin induced gene 1,None,ENSG00000186480,None,0.0114772,0.0500184,1,By_ingredient,0.3983
+SMTT07484,IPCEF1,None,interaction protein for cytohesin exchange factors 1,None,ENSG00000074706,None,0.0218377,0.0636904,1,By_ingredient,0.2008
+SMTT07488,IPO7,None,importin 7,None,ENSG00000205339,None,0.000357738,0.00792072,1,By_ingredient,0.3635
+SMTT07509,IRF4,None,interferon regulatory factor 4,None,ENSG00000137265,None,0.0325776,0.0745352,1,By_ingredient,0.2156
+SMTT07529,ITGA11,None,integrin subunit alpha 11,None,ENSG00000137809,None,0.0218377,0.0636904,1,By_ingredient,0.2107
+SMTT07550,ITSN2,None,intersectin 2,None,ENSG00000198399,None,0.00175004,0.0221497,1,By_ingredient,0.4335
+SMTT07562,KANK3,None,KN motif and ankyrin repeat domains 3,None,ENSG00000186994,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.9961
+SMTT07563,KANK4,None,KN motif and ankyrin repeat domains 4,None,ENSG00000132854,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8489
+SMTT07570,KATNBL1,None,katanin regulatory subunit B1 like 1,None,ENSG00000134152,None,0.000357738,0.00792072,1,By_ingredient,0.3666
+SMTT07578,KCMF1,None,potassium channel modulatory factor 1,None,ENSG00000176407,None,0.000120119,0.00375531,1,By_ingredient,0.4401
+SMTT07649,KHDC4,None,"KH domain containing 4, pre-mRNA splicing factor",None,ENSG00000132680,None,0.000357738,0.00792072,1,By_ingredient,0.3636
+SMTT07653,KHSRP,None,KH-type splicing regulatory protein,None,ENSG00000088247,None,0.00071028,0.0126907,1,By_ingredient,0.357
+SMTT07663,KIDINS220,None,kinase D interacting substrate 220,None,ENSG00000134313,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.9157
+SMTT07708,KLF9,None,Kruppel like factor 9,None,ENSG00000119138,None,0.00618817,0.0394319,1,By_ingredient,0.4245
+SMTT07745,KMT2C,None,lysine methyltransferase 2C,None,ENSG00000055609,None,0.00243231,0.0261241,1,By_ingredient,0.391
+SMTT07792,LAG3,None,lymphocyte activating 3,None,ENSG00000089692,None,0.0109789,0.0495377,1,By_ingredient,0.2666
+SMTT07826,LCP2,None,lymphocyte cytosolic protein 2,None,ENSG00000043462,None,0.0109789,0.0495377,1,By_ingredient,0.2047
+SMTT07863,LHFPL6,None,LHFPL tetraspan subfamily member 6,None,ENSG00000183722,None,0.0218377,0.0636904,1,By_ingredient,0.2218
+SMTT07899,LNPEP,None,leucyl and cystinyl aminopeptidase,None,ENSG00000113441,None,0.0200342,0.061282,1,By_ingredient,0.3824
+SMTT07909,LPAR1,None,lysophosphatidic acid receptor 1,None,ENSG00000198121,None,0.00312603,0.0300312,1,By_ingredient,0.6319
+SMTT07910,LPAR2,None,lysophosphatidic acid receptor 2,None,ENSG00000064547,None,0.00254587,0.0267445,1,By_ingredient,0.5798
+SMTT07911,LPAR3,None,lysophosphatidic acid receptor 3,None,ENSG00000171517,None,0.00254587,0.0267445,1,By_ingredient,0.5819
+SMTT07936,LRP12,None,LDL receptor related protein 12,None,ENSG00000147650,None,0.0218377,0.0636904,1,By_ingredient,0.2313
+SMTT07952,LRRC28,None,leucine rich repeat containing 28,None,ENSG00000168904,None,0.00243231,0.0261241,1,By_ingredient,0.3733
+SMTT07990,LRRFIP1,None,LRR binding FLII interacting protein 1,None,ENSG00000124831,None,0.00618817,0.0394319,1,By_ingredient,0.4256
+SMTT08010,LSM7,None,"LSM7 homolog, U6 small nuclear RNA and mRNA degradation associated",None,ENSG00000130332,None,0.00175004,0.0221497,1,By_ingredient,0.3917
+SMTT08012,LSP1,None,lymphocyte-specific protein 1,None,ENSG00000130592,None,0.00661134,0.0403439,1,By_ingredient,0.4577
+SMTT08014,LTA4H,None,leukotriene A4 hydrolase,None,ENSG00000111144,None,2.53E-06,0.000196631,1,By_ingredient,1.9947
+SMTT08016,LTB4R,None,leukotriene B4 receptor,None,ENSG00000213903,None,0.0116908,0.0501417,1,By_ingredient,0.4752
+SMTT08017,LTB4R2,None,leukotriene B4 receptor 2,None,ENSG00000213906,None,0.0102615,0.0477541,1,By_ingredient,0.4348
+SMTT08020,LTN1,None,listerin E3 ubiquitin protein ligase 1,None,ENSG00000198862,None,0.000120119,0.00375531,1,By_ingredient,0.3304
+SMTT08046,MAFF,None,MAF bZIP transcription factor F,None,ENSG00000185022,None,0.00251849,0.0266184,1,By_ingredient,0.5647
+SMTT08047,MAFG,None,MAF bZIP transcription factor G,None,ENSG00000197063,None,0.000148423,0.00436063,1,By_ingredient,0.5989
+SMTT08048,MAFK,None,MAF bZIP transcription factor K,None,ENSG00000198517,None,2.56E-05,0.00120509,1,By_ingredient,0.5979
+SMTT08129,MC3R,None,melanocortin 3 receptor,None,ENSG00000124089,None,0.0071546,0.0417534,1,By_ingredient,0.4484
+SMTT08130,MC5R,None,melanocortin 5 receptor,None,ENSG00000176136,None,0.0071546,0.0417534,1,By_ingredient,0.4332
+SMTT08133,MCHR1,None,melanin concentrating hormone receptor 1,None,ENSG00000128285,None,0.00254587,0.0267445,1,By_ingredient,0.6073
+SMTT08134,MCHR2,None,melanin concentrating hormone receptor 2,None,ENSG00000152034,None,0.00254587,0.0267445,1,By_ingredient,0.5715
+SMTT08135,MCM3,None,minichromosome maintenance complex component 3,None,ENSG00000112118,None,0.00071028,0.0126907,1,By_ingredient,0.4101
+SMTT08149,ME2,None,malic enzyme 2,None,ENSG00000082212,None,0.049627,0.0906047,1,By_ingredient,0.4757
+SMTT08249,MLEC,None,malectin,None,ENSG00000110917,None,0.00175004,0.0221497,1,By_ingredient,0.4087
+SMTT08254,MLNR,None,motilin receptor,None,ENSG00000102539,None,0.0102615,0.0477541,1,By_ingredient,0.4497
+SMTT08267,MMUT,None,None,None,None,None,0.0432001,0.0847847,1,By_ingredient,0.1795
+SMTT08279,MORF4L2,None,mortality factor 4 like 2,None,ENSG00000123562,None,0.00071028,0.0126907,1,By_ingredient,0.3514
+SMTT08287,MPHOSPH8,None,M-phase phosphoprotein 8,None,ENSG00000196199,None,1.17E-06,0.000104736,0.485453,By_ingredient,0.7884
+SMTT08363,MS4A7,None,membrane spanning 4-domains A7,None,ENSG00000166927,None,0.0218377,0.0636904,1,By_ingredient,0.1972
+SMTT08374,MT1A,None,metallothionein 1A,None,ENSG00000205362,None,0.00410957,0.0334136,1,By_ingredient,0.3959
+SMTT08379,MT1X,None,metallothionein 1X,None,ENSG00000187193,None,0.000794486,0.0136712,1,By_ingredient,0.5828
+SMTT08435,MYH10,None,myosin heavy chain 10,None,ENSG00000133026,None,0.00321961,0.0304786,1,By_ingredient,0.3639
+SMTT08483,NAA15,None,"N(alpha)-acetyltransferase 15, NatA auxiliary subunit",None,ENSG00000164134,None,0.00321961,0.0304786,1,By_ingredient,0.3877
+SMTT08542,NCOA2,None,nuclear receptor coactivator 2,None,ENSG00000140396,None,1.30E-10,3.87E-08,5.36E-05,By_ingredient,7.3156
+SMTT08543,NCOA3,None,nuclear receptor coactivator 3,None,ENSG00000124151,None,0.00410957,0.0334136,1,By_ingredient,0.407
+SMTT08554,NDOR1,None,NADPH dependent diflavin oxidoreductase 1,None,ENSG00000188566,None,0.049627,0.0906047,1,By_ingredient,0.5841
+SMTT08599,NFIL3,None,"nuclear factor, interleukin 3 regulated",None,ENSG00000165030,None,0.0432001,0.0847847,1,By_ingredient,0.2207
+SMTT08601,NFKBIB,None,NFKB inhibitor beta,None,ENSG00000104825,None,1.17E-06,0.000104736,0.485453,By_ingredient,0.8524
+SMTT08602,NFKBID,None,NFKB inhibitor delta,None,ENSG00000167604,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.933
+SMTT08603,NFKBIE,None,NFKB inhibitor epsilon,None,ENSG00000146232,None,6.09E-07,6.03E-05,0.251985,By_ingredient,0.9946
+SMTT08604,NFKBIZ,None,NFKB inhibitor zeta,None,ENSG00000144802,None,8.56E-07,8.02E-05,0.353777,By_ingredient,1.02
+SMTT08631,NKPD1,None,NTPase KAP family P-loop domain containing 1,None,None,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7666
+SMTT08633,NKTR,None,natural killer cell triggering receptor,None,ENSG00000114857,None,0.00509985,0.0364165,1,By_ingredient,0.3875
+SMTT08647,NMBR,None,neuromedin B receptor,None,ENSG00000135577,None,0.0102615,0.0477541,1,By_ingredient,0.4486
+SMTT08662,NMUR1,None,neuromedin U receptor 1,None,ENSG00000171596,None,0.00254587,0.0267445,1,By_ingredient,0.5629
+SMTT08663,NMUR2,None,neuromedin U receptor 2,None,ENSG00000132911,None,0.00254587,0.0267445,1,By_ingredient,0.5636
+SMTT08677,NOTCH4,None,notch 4,None,ENSG00000204301,None,2.84E-07,3.26E-05,0.117594,By_ingredient,1.1438
+SMTT08684,NPBWR1,None,neuropeptides B and W receptor 1,None,ENSG00000183729,None,0.00161549,0.0210028,1,By_ingredient,0.5717
+SMTT08685,NPBWR2,None,neuropeptides B and W receptor 2,None,ENSG00000125522,None,0.00161549,0.0210028,1,By_ingredient,0.571
+SMTT08689,NPFFR1,None,neuropeptide FF receptor 1,None,ENSG00000148734,None,0.0102615,0.0477541,1,By_ingredient,0.4334
+SMTT08690,NPFFR2,None,neuropeptide FF receptor 2,None,ENSG00000056291,None,0.0102615,0.0477541,1,By_ingredient,0.4298
+SMTT08708,NPY1R,None,neuropeptide Y receptor Y1,None,ENSG00000164128,None,0.00204428,0.0237005,1,By_ingredient,0.5856
+SMTT08709,NPY2R,None,neuropeptide Y receptor Y2,None,ENSG00000185149,None,0.00161549,0.0210028,1,By_ingredient,0.5616
+SMTT08710,NPY4R2,None,neuropeptide Y receptor Y4-2,None,ENSG00000264717,None,0.00161549,0.0210028,1,By_ingredient,0.5685
+SMTT08711,NPY5R,None,neuropeptide Y receptor Y5,None,ENSG00000164129,None,0.00175069,0.0221539,1,By_ingredient,0.5931
+SMTT08713,NR1D2,None,nuclear receptor subfamily 1 group D member 2,None,ENSG00000174738,None,0.000357738,0.00792072,1,By_ingredient,0.4151
+SMTT08721,NRARP,None,NOTCH regulated ankyrin repeat protein,None,ENSG00000198435,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7722
+SMTT08749,NTSR1,None,neurotensin receptor 1,None,ENSG00000101188,None,0.0109627,0.0495122,1,By_ingredient,0.4413
+SMTT08750,NTSR2,None,neurotensin receptor 2,None,ENSG00000169006,None,0.0102615,0.0477541,1,By_ingredient,0.4491
+SMTT08754,NUBP2,None,nucleotide binding protein 2,None,ENSG00000095906,None,0.00071028,0.0126907,1,By_ingredient,0.4052
+SMTT08755,NUCB2,None,nucleobindin 2,None,ENSG00000070081,None,0.00117521,0.0172508,1,By_ingredient,0.4051
+SMTT08784,NUP88,None,nucleoporin 88,None,ENSG00000108559,None,0.0218377,0.0636904,1,By_ingredient,0.182
+SMTT08786,NUPR1,None,"nuclear protein 1, transcriptional regulator",None,ENSG00000176046,None,0.00243231,0.0261241,1,By_ingredient,0.4063
+SMTT08788,NUSAP1,None,nucleolar and spindle associated protein 1,None,ENSG00000137804,None,0.00117521,0.0172508,1,By_ingredient,0.3943
+SMTT08832,OPN1MW2,None,"opsin 1, medium wave sensitive 2",None,ENSG00000166160,None,0.00661134,0.0403439,1,By_ingredient,0.4376
+SMTT08833,OPN3,None,opsin 3,None,ENSG00000054277,None,0.0071546,0.0417534,1,By_ingredient,0.4519
+SMTT08834,OPN4,None,opsin 4,None,ENSG00000122375,None,0.0102615,0.0477541,1,By_ingredient,0.4362
+SMTT08835,OPN5,None,opsin 5,None,ENSG00000124818,None,0.00661134,0.0403439,1,By_ingredient,0.4408
+SMTT08836,OPRL1,None,opioid related nociceptin receptor 1,None,ENSG00000125510,None,0.00161549,0.0210028,1,By_ingredient,0.5717
+SMTT08855,OSER1,None,oxidative stress responsive serine rich 1,None,ENSG00000132823,None,0.000357738,0.00792072,1,By_ingredient,0.3866
+SMTT08898,PABPC4,None,poly(A) binding protein cytoplasmic 4,None,ENSG00000090621,None,0.000120119,0.00375531,1,By_ingredient,0.3107
+SMTT08904,PAF1,None,"PAF1 homolog, Paf1/RNA polymerase II complex component",None,ENSG00000006712,None,0.000120119,0.00375531,1,By_ingredient,0.3696
+SMTT08920,PANX2,None,pannexin 2,None,ENSG00000073150,None,0.0218377,0.0636904,1,By_ingredient,0.2298
+SMTT08947,PATL1,None,"PAT1 homolog 1, processing body mRNA decay factor",None,ENSG00000166889,None,0.000120119,0.00375531,1,By_ingredient,0.345
+SMTT08958,PCBP2,None,poly(rC) binding protein 2,None,ENSG00000197111,None,0.000357738,0.00792072,1,By_ingredient,0.3724
+SMTT08986,PCDHB14,None,protocadherin beta 14,None,ENSG00000120327,None,0.00117521,0.0172508,1,By_ingredient,0.3605
+SMTT09017,PCLAF,None,PCNA clamp associated factor,None,ENSG00000166803,None,0.00618817,0.0394319,1,By_ingredient,0.3868
+SMTT09135,PHB,None,prohibitin,None,ENSG00000167085,None,0.00243231,0.0261241,1,By_ingredient,0.3588
+SMTT09153,PHLDA2,None,pleckstrin homology like domain family A member 2,None,ENSG00000181649,None,0.0432001,0.0847847,1,By_ingredient,0.2128
+SMTT09159,PHRF1,None,PHD and ring finger domains 1,None,ENSG00000070047,None,0.000120119,0.00375531,1,By_ingredient,0.3746
+SMTT09170,PICALM,None,phosphatidylinositol binding clathrin assembly protein,None,ENSG00000073921,None,0.0432001,0.0847847,1,By_ingredient,0.1884
+SMTT09172,PIDD1,None,p53-induced death domain protein 1,None,ENSG00000177595,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8059
+SMTT09198,PIR,None,pirin,None,ENSG00000087842,None,0.0432001,0.0847847,1,By_ingredient,0.2046
+SMTT09205,PKIA,None,cAMP-dependent protein kinase inhibitor alpha,None,ENSG00000171033,None,0.000497352,0.009989,1,By_ingredient,1.3726
+SMTT09207,PKM,None,pyruvate kinase M1/2,None,ENSG00000067225,None,0.00014608,0.0043078,1,By_ingredient,0.924
+SMTT09210,PKN2,None,protein kinase N2,None,ENSG00000065243,None,0.00509985,0.0364165,1,By_ingredient,0.3853
+SMTT09217,PLA2G1B,None,phospholipase A2 group IB,None,ENSG00000170890,None,0.000372286,0.0081684,1,By_ingredient,0.8455
+SMTT09220,PLA2G2E,None,phospholipase A2 group IIE,None,ENSG00000188784,None,0.000643605,0.0118565,1,By_ingredient,0.9133
+SMTT09262,PLPBP,None,pyridoxal phosphate binding protein,None,ENSG00000147471,None,0.0432001,0.0847847,1,By_ingredient,0.179
+SMTT09292,PNISR,None,PNN interacting serine and arginine rich protein,None,ENSG00000132424,None,0.00175004,0.0221497,1,By_ingredient,0.4274
+SMTT09310,POLA2,None,"DNA polymerase alpha 2, accessory subunit",None,ENSG00000014138,None,0.000357738,0.00792072,1,By_ingredient,0.3612
+SMTT09323,POLR1F,None,None,None,None,None,0.000120119,0.00375531,1,By_ingredient,0.3302
+SMTT09344,POTEB,None,POTE ankyrin domain family member B,None,ENSG00000233917,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7454
+SMTT09345,POTEB2,None,POTE ankyrin domain family member B2,None,ENSG00000230031,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7571
+SMTT09346,POTEC,None,POTE ankyrin domain family member C,None,ENSG00000183206,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7805
+SMTT09347,POTED,None,POTE ankyrin domain family member D,None,ENSG00000166351,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7762
+SMTT09348,POTEE,None,POTE ankyrin domain family member E,None,ENSG00000188219,None,6.84E-06,0.000430479,1,By_ingredient,0.8337
+SMTT09349,POTEH,None,POTE ankyrin domain family member H,None,ENSG00000198062,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7701
+SMTT09350,POTEI,None,POTE ankyrin domain family member I,None,ENSG00000196834,None,8.39E-06,0.000503439,1,By_ingredient,0.8676
+SMTT09351,POTEJ,None,POTE ankyrin domain family member J,None,ENSG00000222038,None,6.84E-06,0.000430479,1,By_ingredient,0.8523
+SMTT09354,POU4F1,None,POU class 4 homeobox 1,None,ENSG00000152192,None,0.000120119,0.00375531,1,By_ingredient,0.4324
+SMTT09369,PPFIBP1,None,PPFIA binding protein 1,None,ENSG00000110841,None,1.29E-05,0.00070867,1,By_ingredient,0.5773
+SMTT09378,PPIF,None,peptidylprolyl isomerase F,None,ENSG00000108179,None,0.014653,0.0546754,1,By_ingredient,0.3394
+SMTT09380,PPIH,None,peptidylprolyl isomerase H,None,ENSG00000171960,None,0.000148423,0.00436063,1,By_ingredient,0.5592
+SMTT09397,PPP1CB,None,protein phosphatase 1 catalytic subunit beta,None,ENSG00000213639,None,0.000357738,0.00792072,1,By_ingredient,0.3806
+SMTT09400,PPP1R12A,None,protein phosphatase 1 regulatory subunit 12A,None,ENSG00000058272,None,8.56E-07,8.02E-05,0.353777,By_ingredient,0.9026
+SMTT09401,PPP1R12C,None,protein phosphatase 1 regulatory subunit 12C,None,ENSG00000125503,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.7535
+SMTT09406,PPP1R16A,None,protein phosphatase 1 regulatory subunit 16A,None,ENSG00000160972,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7596
+SMTT09407,PPP1R16B,None,protein phosphatase 1 regulatory subunit 16B,None,ENSG00000101445,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.7708
+SMTT09411,PPP1R27,None,protein phosphatase 1 regulatory subunit 27,None,ENSG00000182676,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.8534
+SMTT09451,PRDX2,None,peroxiredoxin 2,None,ENSG00000167815,None,2.33E-05,0.00112845,1,By_ingredient,0.7388
+SMTT09480,PRLHR,None,prolactin releasing hormone receptor,None,ENSG00000119973,None,0.00661134,0.0403439,1,By_ingredient,0.4393
+SMTT09490,PROKR1,None,prokineticin receptor 1,None,ENSG00000169618,None,0.0102615,0.0477541,1,By_ingredient,0.4569
+SMTT09507,PRRC1,None,proline rich coiled-coil 1,None,ENSG00000164244,None,0.000120119,0.00375531,1,By_ingredient,0.3153
+SMTT09510,PRRC2C,None,proline rich coiled-coil 2C,None,ENSG00000117523,None,0.00321961,0.0304786,1,By_ingredient,0.3894
+SMTT09518,PRSS3,None,serine protease 3,None,ENSG00000010438,None,5.25E-08,7.74E-06,0.0217252,By_ingredient,3.1997
+SMTT09550,PSMA2,None,proteasome subunit alpha 2,None,ENSG00000106588,None,0.000357738,0.00792072,1,By_ingredient,0.4173
+SMTT09571,PSMD1,None,"proteasome 26S subunit, non-ATPase 1",None,ENSG00000173692,None,0.0114772,0.0500184,1,By_ingredient,0.4098
+SMTT09572,PSMD10,None,"proteasome 26S subunit, non-ATPase 10",None,ENSG00000101843,None,8.39E-06,0.000503439,1,By_ingredient,0.9855
+SMTT09582,PSMD8,None,"proteasome 26S subunit, non-ATPase 8",None,ENSG00000099341,None,0.0114772,0.0500184,1,By_ingredient,0.3851
+SMTT09599,PTGDR,None,prostaglandin D2 receptor,None,ENSG00000168229,None,0.00772357,0.0434183,1,By_ingredient,0.4895
+SMTT09602,PTGER1,None,prostaglandin E receptor 1,None,ENSG00000160951,None,0.0140392,0.053565,1,By_ingredient,0.4458
+SMTT09603,PTGER4,None,prostaglandin E receptor 4,None,ENSG00000171522,None,0.0148771,0.0551503,1,By_ingredient,0.5228
+SMTT09606,PTGR1,None,prostaglandin reductase 1,None,ENSG00000106853,None,0.000540317,0.010505,1,By_ingredient,0.614
+SMTT09630,PTPRE,None,"protein tyrosine phosphatase, receptor type E",None,ENSG00000132334,None,0.000357738,0.00792072,1,By_ingredient,0.3613
+SMTT09669,QRFPR,None,pyroglutamylated RFamide peptide receptor,None,ENSG00000186867,None,0.0102615,0.0477541,1,By_ingredient,0.4367
+SMTT09672,QSER1,None,glutamine and serine rich 1,None,ENSG00000060749,None,0.000357738,0.00792072,1,By_ingredient,0.3819
+SMTT09696,RAB2A,None,"RAB2A, member RAS oncogene family",None,ENSG00000104388,None,0.00737226,0.0422421,1,By_ingredient,0.3994
+SMTT09712,RAB5A,None,"RAB5A, member RAS oncogene family",None,ENSG00000144566,None,0.00175004,0.0221497,1,By_ingredient,0.3913
+SMTT09722,RABGAP1L,None,RAB GTPase activating protein 1 like,None,ENSG00000152061,None,0.00071028,0.0126907,1,By_ingredient,0.3994
+SMTT09735,RAD23A,None,"RAD23 homolog A, nucleotide excision repair protein",None,ENSG00000179262,None,0.00321961,0.0304786,1,By_ingredient,0.4239
+SMTT09747,RAI14,None,retinoic acid induced 14,None,ENSG00000039560,None,1.58E-06,0.000133522,0.652924,By_ingredient,1.0062
+SMTT09759,RANBP1,None,RAN binding protein 1,None,ENSG00000099901,None,0.00071028,0.0126907,1,By_ingredient,0.4334
+SMTT09765,RANGAP1,None,Ran GTPase activating protein 1,None,ENSG00000100401,None,0.00243231,0.0261241,1,By_ingredient,0.4167
+SMTT09779,RAS,None,None,None,None,None,0.0109789,0.0495377,1,By_ingredient,0.1983
+SMTT09809,RBM25,None,RNA binding motif protein 25,None,ENSG00000119707,None,0.00175004,0.0221497,1,By_ingredient,0.3674
+SMTT09814,RBM4,None,RNA binding motif protein 4,None,ENSG00000173933,None,0.00175004,0.0221497,1,By_ingredient,0.4124
+SMTT09829,RBX1,None,ring-box 1,None,ENSG00000100387,None,0.00243231,0.0261241,1,By_ingredient,0.3999
+SMTT09832,RCAN1,None,regulator of calcineurin 1,None,ENSG00000159200,None,0.0109789,0.0495377,1,By_ingredient,0.1959
+SMTT09922,RHOB,None,ras homolog family member B,None,ENSG00000143878,None,0.000945671,0.0150718,1,By_ingredient,0.5455
+SMTT09951,RIOX1,None,ribosomal oxygenase 1,None,ENSG00000170468,None,0.0109789,0.0495377,1,By_ingredient,0.1889
+SMTT09973,RNF10,None,ring finger protein 10,None,ENSG00000022840,None,0.000120119,0.00375531,1,By_ingredient,0.4237
+SMTT10080,RPS2,None,ribosomal protein S2,None,ENSG00000140988,None,0.00175004,0.0221497,1,By_ingredient,0.432
+SMTT10090,RPS4X,None,"ribosomal protein S4, X-linked",None,ENSG00000198034,None,0.000357738,0.00792072,1,By_ingredient,0.3995
+SMTT10096,RPS9,None,ribosomal protein S9,None,ENSG00000170889,None,0.00243231,0.0261241,1,By_ingredient,0.3891
+SMTT10107,RRBP1,None,ribosome binding protein 1,None,ENSG00000125844,None,0.00071028,0.0126907,1,By_ingredient,0.369
+SMTT10108,RRH,None,retinal pigment epithelium-derived rhodopsin homolog,None,ENSG00000180245,None,0.00661134,0.0403439,1,By_ingredient,0.4391
+SMTT10110,RRM2,None,ribonucleotide reductase regulatory subunit M2,None,ENSG00000171848,None,0.0130225,0.051746,1,By_ingredient,0.4016
+SMTT10117,RRP9,None,"ribosomal RNA processing 9, U3 small nucleolar RNA binding protein",None,ENSG00000114767,None,0.000357738,0.00792072,1,By_ingredient,0.3797
+SMTT10120,RSAD2,None,radical S-adenosyl methionine domain containing 2,None,ENSG00000134321,None,0.00117521,0.0172508,1,By_ingredient,0.3886
+SMTT10158,RXFP3,None,relaxin family peptide receptor 3,None,ENSG00000182631,None,0.00175069,0.0221539,1,By_ingredient,0.5739
+SMTT10159,RXFP4,None,relaxin family peptide/INSL5 receptor 4,None,ENSG00000173080,None,0.00161549,0.0210028,1,By_ingredient,0.5706
+SMTT10208,SCAF11,None,SR-related CTD associated factor 11,None,ENSG00000139218,None,0.00175004,0.0221497,1,By_ingredient,0.3776
+SMTT10232,SCN3A,None,sodium voltage-gated channel alpha subunit 3,None,ENSG00000153253,None,0.0218377,0.0636904,1,By_ingredient,0.1902
+SMTT10261,SEC16A,None,"SEC16 homolog A, endoplasmic reticulum export factor",None,ENSG00000148396,None,0.00175004,0.0221497,1,By_ingredient,0.41
+SMTT10265,SEC31A,None,"SEC31 homolog A, COPII coat complex component",None,ENSG00000138674,None,0.00117521,0.0172508,1,By_ingredient,0.407
+SMTT10266,SEC61A1,None,Sec61 translocon alpha 1 subunit,None,ENSG00000058262,None,0.00117521,0.0172508,1,By_ingredient,0.3609
+SMTT10273,SEL1L3,None,SEL1L family member 3,None,ENSG00000091490,None,0.0432001,0.0847847,1,By_ingredient,0.2273
+SMTT10279,SELENOP,None,selenoprotein P,None,ENSG00000250722,None,0.00117521,0.0172508,1,By_ingredient,0.4042
+SMTT10303,SERINC1,None,serine incorporator 1,None,ENSG00000111897,None,0.000357738,0.00792072,1,By_ingredient,0.4139
+SMTT10318,SERPINB2,None,serpin family B member 2,None,ENSG00000197632,None,0.0130225,0.051746,1,By_ingredient,0.4081
+SMTT10329,SERTAD4,None,SERTA domain containing 4,None,ENSG00000082497,None,0.0109789,0.0495377,1,By_ingredient,0.2364
+SMTT10330,SESN1,None,sestrin 1,None,ENSG00000080546,None,0.00321961,0.0304786,1,By_ingredient,0.4005
+SMTT10368,SGTB,None,small glutamine rich tetratricopeptide repeat containing beta,None,ENSG00000197860,None,0.00071028,0.0126907,1,By_ingredient,0.4122
+SMTT10385,SHANK1,None,SH3 and multiple ankyrin repeat domains 1,None,ENSG00000161681,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.8632
+SMTT10386,SHANK2,None,SH3 and multiple ankyrin repeat domains 2,None,ENSG00000162105,None,1.17E-06,0.000104736,0.485453,By_ingredient,0.9778
+SMTT10426,SLAMF1,None,signaling lymphocytic activation molecule family member 1,None,ENSG00000117090,None,0.0218377,0.0636904,1,By_ingredient,0.1898
+SMTT10463,SLC19A1,None,solute carrier family 19 member 1,None,ENSG00000173638,None,0.00321961,0.0304786,1,By_ingredient,0.3834
+SMTT10492,SLC25A36,None,solute carrier family 25 member 36,None,ENSG00000114120,None,0.00175004,0.0221497,1,By_ingredient,0.4144
+SMTT10558,SLC39A14,None,solute carrier family 39 member 14,None,ENSG00000104635,None,0.00175004,0.0221497,1,By_ingredient,0.3848
+SMTT10560,SLC39A3,None,solute carrier family 39 member 3,None,ENSG00000141873,None,0.000120119,0.00375531,1,By_ingredient,0.3391
+SMTT10580,SLC4A7,None,solute carrier family 4 member 7,None,ENSG00000033867,None,0.00243231,0.0261241,1,By_ingredient,0.4294
+SMTT10615,SLC9B1,None,solute carrier family 9 member B1,None,ENSG00000164037,None,0.0109789,0.0495377,1,By_ingredient,0.2409
+SMTT10623,SLFN11,None,schlafen family member 11,None,ENSG00000172716,None,0.0109789,0.0495377,1,By_ingredient,0.2019
+SMTT10702,SNX24,None,sorting nexin 24,None,ENSG00000064652,None,0.0432001,0.0847847,1,By_ingredient,0.2317
+SMTT10704,SNX27,None,sorting nexin family member 27,None,ENSG00000143376,None,0.000357738,0.00792072,1,By_ingredient,0.3889
+SMTT10727,SOWAHC,None,sosondowah ankyrin repeat domain family member C,None,ENSG00000198142,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.9905
+SMTT10748,SPAG9,None,sperm associated antigen 9,None,ENSG00000008294,None,0.00117521,0.0172508,1,By_ingredient,0.394
+SMTT10815,SRRM2,None,serine/arginine repetitive matrix 2,None,ENSG00000167978,None,0.00243231,0.0261241,1,By_ingredient,0.4154
+SMTT10820,SRSF3,None,serine and arginine rich splicing factor 3,None,ENSG00000112081,None,0.00117521,0.0172508,1,By_ingredient,0.3707
+SMTT10822,SRSF5,None,serine and arginine rich splicing factor 5,None,ENSG00000100650,None,0.00321961,0.0304786,1,By_ingredient,0.3931
+SMTT10824,SRSF7,None,serine and arginine rich splicing factor 7,None,ENSG00000115875,None,0.00321961,0.0304786,1,By_ingredient,0.3946
+SMTT10826,SRXN1,None,sulfiredoxin 1,None,ENSG00000271303,None,6.57E-06,0.000417236,1,By_ingredient,0.8025
+SMTT10836,SSTR1,None,somatostatin receptor 1,None,ENSG00000139874,None,0.00161549,0.0210028,1,By_ingredient,0.5964
+SMTT10837,SSTR2,None,somatostatin receptor 2,None,ENSG00000180616,None,0.00161549,0.0210028,1,By_ingredient,0.6986
+SMTT10838,SSTR4,None,somatostatin receptor 4,None,ENSG00000132671,None,0.00161549,0.0210028,1,By_ingredient,0.5852
+SMTT10839,SSTR5,None,somatostatin receptor 5,None,ENSG00000162009,None,0.00161549,0.0210028,1,By_ingredient,0.5959
+SMTT10876,STAU2,None,staufen double-stranded RNA binding protein 2,None,ENSG00000040341,None,0.0325776,0.0745352,1,By_ingredient,0.2262
+SMTT10887,STK24,None,serine/threonine kinase 24,None,ENSG00000102572,None,0.0432001,0.0847847,1,By_ingredient,0.2493
+SMTT10888,STK25,None,serine/threonine kinase 25,None,ENSG00000115694,None,0.0218377,0.0636904,1,By_ingredient,0.2218
+SMTT10912,STX5,None,syntaxin 5,None,ENSG00000162236,None,0.000357738,0.00792072,1,By_ingredient,0.3626
+SMTT10921,SUB1,None,"SUB1 homolog, transcriptional regulator",None,ENSG00000113387,None,0.00071028,0.0126907,1,By_ingredient,0.3874
+SMTT10941,SUPT3H,None,"SPT3 homolog, SAGA and STAGA complex component",None,ENSG00000196284,None,0.000120119,0.00375531,1,By_ingredient,0.3312
+SMTT10988,TAAR1,None,trace amine associated receptor 1,None,ENSG00000146399,None,0.0083185,0.0442289,1,By_ingredient,0.4523
+SMTT10989,TAAR2,None,trace amine associated receptor 2 (gene/pseudogene),None,ENSG00000146378,None,0.00661134,0.0403439,1,By_ingredient,0.4311
+SMTT10990,TAAR5,None,trace amine associated receptor 5,None,ENSG00000135569,None,0.00661134,0.0403439,1,By_ingredient,0.482
+SMTT10991,TAAR6,None,trace amine associated receptor 6,None,ENSG00000146383,None,0.00661134,0.0403439,1,By_ingredient,0.4441
+SMTT10992,TAAR8,None,trace amine associated receptor 8,None,ENSG00000146385,None,0.00661134,0.0403439,1,By_ingredient,0.4167
+SMTT11018,TANC1,None,"tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1",None,ENSG00000115183,None,4.23E-07,4.45E-05,0.174808,By_ingredient,0.969
+SMTT11019,TANC2,None,"tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 2",None,ENSG00000170921,None,1.17E-06,0.000104736,0.485453,By_ingredient,0.914
+SMTT11021,TAOK1,None,TAO kinase 1,None,ENSG00000160551,None,0.00117521,0.0172508,1,By_ingredient,0.3806
+SMTT11119,TES,None,testin LIM domain protein,None,ENSG00000135269,None,0.00117521,0.0172508,1,By_ingredient,0.4337
+SMTT11136,TFIP11,None,tuftelin interacting protein 11,None,ENSG00000100109,None,0.000120119,0.00375531,1,By_ingredient,0.3709
+SMTT11137,TFPI,None,tissue factor pathway inhibitor,None,ENSG00000003436,None,0.00321961,0.0304786,1,By_ingredient,0.3699
+SMTT11153,THNSL2,None,threonine synthase like 2,None,ENSG00000144115,None,0.0325776,0.0745352,1,By_ingredient,0.2316
+SMTT11223,TMED4,None,transmembrane p24 trafficking protein 4,None,ENSG00000158604,None,0.000357738,0.00792072,1,By_ingredient,0.3608
+SMTT11228,TMEFF2,None,transmembrane protein with EGF like and two follistatin like domains 2,None,ENSG00000144339,None,0.000120119,0.00375531,1,By_ingredient,0.417
+SMTT11231,TMEM109,None,transmembrane protein 109,None,ENSG00000110108,None,0.000120119,0.00375531,1,By_ingredient,0.3607
+SMTT11293,TMIGD3,None,transmembrane and immunoglobulin domain containing 3,None,ENSG00000121933,None,0.00161549,0.0210028,1,By_ingredient,0.5746
+SMTT11311,TMTC4,None,transmembrane and tetratricopeptide repeat containing 4,None,ENSG00000125247,None,0.000120119,0.00375531,1,By_ingredient,0.3887
+SMTT11334,TNKS,None,tankyrase,None,ENSG00000173273,None,1.58E-06,0.000133522,0.652924,By_ingredient,0.9356
+SMTT11335,TNKS2,None,tankyrase 2,None,ENSG00000107854,None,1.58E-06,0.000133522,0.652924,By_ingredient,0.9206
+SMTT11351,TONSL,None,"tonsoku like, DNA repair protein",None,ENSG00000160949,None,6.09E-07,6.03E-05,0.251985,By_ingredient,0.822
+SMTT11375,TPD52L2,None,tumor protein D52 like 2,None,ENSG00000101150,None,0.000120119,0.00375531,1,By_ingredient,0.411
+SMTT11383,TPR,None,"translocated promoter region, nuclear basket protein",None,ENSG00000047410,None,0.00243231,0.0261241,1,By_ingredient,0.3846
+SMTT11389,TPT1,None,"tumor protein, translationally-controlled 1",None,ENSG00000133112,None,0.00509985,0.0364165,1,By_ingredient,0.3588
+SMTT11391,TRA2A,None,transformer 2 alpha homolog,None,ENSG00000164548,None,0.00410957,0.0334136,1,By_ingredient,0.3901
+SMTT11414,TRAT1,None,T cell receptor associated transmembrane adaptor 1,None,ENSG00000163519,None,0.0109789,0.0495377,1,By_ingredient,0.2297
+SMTT11423,TRIB3,None,tribbles pseudokinase 3,None,ENSG00000101255,None,0.00560074,0.0381282,1,By_ingredient,0.5874
+SMTT11429,TRIM16L,None,tripartite motif containing 16 like,None,ENSG00000108448,None,0.0325776,0.0745352,1,By_ingredient,0.2187
+SMTT11474,TRMT13,None,tRNA methyltransferase 13 homolog,None,ENSG00000122435,None,0.000120119,0.00375531,1,By_ingredient,0.3243
+SMTT11492,TRPV2,None,transient receptor potential cation channel subfamily V member 2,None,ENSG00000187688,None,0.00243231,0.0261241,1,By_ingredient,0.4492
+SMTT11531,TTC3,None,tetratricopeptide repeat domain 3,None,ENSG00000182670,None,0.00117521,0.0172508,1,By_ingredient,0.4057
+SMTT11556,TUBA1C,None,tubulin alpha 1c,None,ENSG00000167553,None,0.00737226,0.0422421,1,By_ingredient,0.3921
+SMTT11588,TYMS,None,thymidylate synthetase,None,ENSG00000176890,None,0.00864991,0.0448525,1,By_ingredient,0.4055
+SMTT11589,TYRO3,None,TYRO3 protein tyrosine kinase,None,ENSG00000092445,None,0.0219847,0.0639039,1,By_ingredient,0.3788
+SMTT11591,TYW1,None,tRNA-yW synthesizing protein 1 homolog,None,ENSG00000198874,None,0.0464348,0.0878374,1,By_ingredient,0.575
+SMTT11594,UACA,None,uveal autoantigen with coiled-coil domains and ankyrin repeats,None,ENSG00000137831,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.8954
+SMTT11603,UBAC1,None,UBA domain containing 1,None,ENSG00000130560,None,0.000120119,0.00375531,1,By_ingredient,0.3801
+SMTT11610,UBD,None,ubiquitin D,None,ENSG00000213886,None,0.00175004,0.0221497,1,By_ingredient,0.3798
+SMTT11612,UBE2C,None,ubiquitin conjugating enzyme E2 C,None,ENSG00000175063,None,0.00117521,0.0172508,1,By_ingredient,0.405
+SMTT11648,UBN1,None,ubinuclein 1,None,ENSG00000118900,None,0.00117521,0.0172508,1,By_ingredient,0.3761
+SMTT11649,UBN2,None,ubinuclein 2,None,ENSG00000157741,None,0.000120119,0.00375531,1,By_ingredient,0.3319
+SMTT11666,UFL1,None,UFM1 specific ligase 1,None,ENSG00000014123,None,0.000120119,0.00375531,1,By_ingredient,0.4244
+SMTT11691,UHMK1,None,U2AF homology motif kinase 1,None,ENSG00000152332,None,0.00243231,0.0261241,1,By_ingredient,0.4445
+SMTT11732,USP3,None,ubiquitin specific peptidase 3,None,ENSG00000140455,None,0.00175004,0.0221497,1,By_ingredient,0.3885
+SMTT11760,UTS2R,None,urotensin 2 receptor,None,ENSG00000181408,None,0.0102615,0.0477541,1,By_ingredient,0.4524
+SMTT11765,VAMP4,None,vesicle associated membrane protein 4,None,ENSG00000117533,None,0.000357738,0.00792072,1,By_ingredient,0.4009
+SMTT11774,VAV3,None,vav guanine nucleotide exchange factor 3,None,ENSG00000134215,None,0.00117521,0.0172508,1,By_ingredient,0.3987
+SMTT11815,WARS1,None,None,None,None,None,0.00410957,0.0334136,1,By_ingredient,0.4013
+SMTT11819,WBP1,None,WW domain binding protein 1,None,ENSG00000239779,None,0.000357738,0.00792072,1,By_ingredient,0.3631
+SMTT11841,WDR74,None,WD repeat domain 74,None,ENSG00000133316,None,0.0218377,0.0636904,1,By_ingredient,0.2254
+SMTT11846,WDR89,None,WD repeat domain 89,None,ENSG00000140006,None,0.000120119,0.00375531,1,By_ingredient,0.3637
+SMTT11893,XRCC1,None,X-ray repair cross complementing 1,None,ENSG00000073050,None,0.000104747,0.00339246,1,By_ingredient,0.6046
+SMTT11895,XRCC5,None,X-ray repair cross complementing 5,None,ENSG00000079246,None,0.00175004,0.0221497,1,By_ingredient,0.4083
+SMTT11969,ZCCHC2,None,zinc finger CCHC-type containing 2,None,ENSG00000141664,None,0.00864991,0.0448525,1,By_ingredient,0.4007
+SMTT11975,ZDHHC13,None,zinc finger DHHC-type containing 13,None,ENSG00000177054,None,2.84E-07,3.26E-05,0.117594,By_ingredient,0.8901
+SMTT11976,ZDHHC17,None,zinc finger DHHC-type containing 17,None,ENSG00000186908,None,6.09E-07,6.03E-05,0.251985,By_ingredient,0.8463
+SMTT11978,ZDHHC21,None,zinc finger DHHC-type containing 21,None,ENSG00000175893,None,0.0325776,0.0745352,1,By_ingredient,0.2172
+SMTT11983,ZFAND2A,None,zinc finger AN1-type containing 2A,None,ENSG00000178381,None,0.0218377,0.0636904,1,By_ingredient,0.2441
+SMTT11996,ZFP36L1,None,ZFP36 ring finger protein like 1,None,ENSG00000185650,None,0.00410957,0.0334136,1,By_ingredient,0.3961
+SMTT12204,ZNF438,None,zinc finger protein 438,None,ENSG00000183621,None,0.00117521,0.0172508,1,By_ingredient,0.3752
+SMTT12215,ZNF451,None,zinc finger protein 451,None,ENSG00000112200,None,0.000120119,0.00375531,1,By_ingredient,0.3551
+SMTT12241,ZNF506,None,zinc finger protein 506,None,ENSG00000081665,None,4.44E-05,0.00181903,1,By_ingredient,0.5632
+SMTT12511,ZWINT,None,ZW10 interacting kinetochore protein,None,ENSG00000122952,None,0.00175004,0.0221497,1,By_ingredient,0.4052
+SMTT12515,ZYG11B,None,"zyg-11 family member B, cell cycle regulator",None,ENSG00000162378,None,0.000120119,0.00375531,1,By_ingredient,0.4208

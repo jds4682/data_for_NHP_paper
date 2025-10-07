@@ -1,0 +1,10 @@
+﻿Target id,Gene symbol,Chromosome,Gene name,Protein name,Ensembl id,UniProt id,P_value,FDR(BH),FDR(Bonferroni),Relationship,Value
+"SMTT00445","CACNA1C","12","Calcium Voltage-gated Channel Subunit Alpha1 C","Voltage-dependent L-type Calcium Channel Subunit Alpha-1C","ENSG00000151067","Q13936","0.00115119","0.0171455","1.0","By_ingredient","0.265"
+"SMTT00450","CACNA1S","1","Calcium Voltage-gated Channel Subunit Alpha1 S","Voltage-dependent L-type Calcium Channel Subunit Alpha-1S","ENSG00000081248","Q13698","0.0021097","0.0242581","1.0","By_ingredient","0.2462"
+"SMTT00451","CACNA2D1","7","Calcium Voltage-gated Channel Auxiliary Subunit Alpha2delta 1","Voltage-dependent Calcium Channel Subunit Alpha-2/delta-1","ENSG00000153956","P54289","0.00134295","0.0186586","1.0","By_ingredient","0.2397"
+"SMTT00453","CACNB2","10","Calcium Voltage-gated Channel Auxiliary Subunit Beta 2","Voltage-dependent L-type Calcium Channel Subunit Beta-2","ENSG00000165995","Q08289","0.000575727","0.0109874","1.0","By_ingredient","0.3041"
+"SMTT00550","CD79A","19","CD79a Molecule","None","ENSG00000105369","None","0.00115119","0.0171455","1.0","By_ingredient","0.2678"
+"SMTT02042","MAPT","17","Microtubule Associated Protein Tau","Microtubule-associated Protein Tau","ENSG00000186868","P10636","0.00383318","0.0326768","1.0","By_ingredient","0.2391"
+"SMTT05177","CACNB1","None","calcium voltage-gated channel auxiliary subunit beta 1","None","ENSG00000067191","None","0.000767577","0.0133435","1.0","By_ingredient","0.2413"
+"SMTT05179","CACNG1","None","calcium voltage-gated channel auxiliary subunit gamma 1","None","ENSG00000108878","None","0.000383848","0.00835519","1.0","By_ingredient","0.2329"
+"SMTT11561","TUBB4B","None","tubulin beta 4B class IVb","None","ENSG00000188229","None","0.00421585","0.0339191","1.0","By_ingredient","0.225"
